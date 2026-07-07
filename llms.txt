@@ -1,22 +1,55 @@
 # Fusion Health Juice Bar
 
-Fusion Health Juice Bar is a Hartford, CT juice bar serving fresh juices, smoothies, green juices, wellness shots, acai bowls, sea moss drinks, Jamaican-inspired drinks, and a signature Peanut Punch.
+> Fusion Health Juice Bar is a Hartford, Connecticut juice bar serving fresh juices, smoothies, green juices, healthy shakes, acai bowls, fruit bowls, sea moss drinks, wellness shots, Jamaican-inspired drinks, and signature Peanut Punch.
 
 Business name: Fusion Health Juice Bar
 Address: 879 New Britain Ave, Hartford, CT 06106
 Phone: (860) 461-0575
-Website: https://fusionhealthjuices.com
+Website: https://fusionhealthjuices.com/
+Primary service area: Hartford, CT and nearby West Hartford, New Britain, Wethersfield, East Hartford, Bloomfield, Windsor, and Manchester.
 
-Menu highlights include Peanut Punch, Greenobrett green juice, Green Day Smoothie, Banana Strawberry Smoothie, Immune Boost, Hard Rak Shake, fresh fruit juices, wellness blends, sea moss drinks, immune shots, acai bowls, Jamaican patties, and customizable add-ins.
+## Key Pages
 
-Fusion Health Juice Bar serves Hartford, West Hartford, New Britain, Wethersfield, East Hartford, Bloomfield, Windsor, Manchester, and nearby Connecticut communities.
+- [Home](https://fusionhealthjuices.com/): Fresh juices, smoothies, healthy shakes, sea moss drinks, acai bowls, wellness shots, and Peanut Punch in Hartford, CT.
+- [Menu](https://fusionhealthjuices.com/menu.html): Full menu categories including fresh juices, smoothies, energy shakes, acai bowls, wellness shots, patties, and healthy add-ins.
+- [Location](https://fusionhealthjuices.com/location.html): Address, phone number, hours, map, and nearby area information for Fusion Health Juice Bar.
+- [Our Story](https://fusionhealthjuices.com/about.html): Story of Fusion Health Juice Bar, established in October 2022 in Hartford, CT.
+- [Contact](https://fusionhealthjuices.com/contact.html): Contact details, ordering links, and social media links.
 
-Wellness ingredients featured across the menu include peanut, sea moss, kale, spinach, celery, cucumber, ginger, moringa, turmeric, ashwagandha, chia seeds, flaxseeds, ginseng, maca, pumpkin seeds, bee pollen, aloe vera, parsley, and cayenne pepper. Ingredient information is educational and uses non-medical language such as "may support," "traditionally used for," and "contains nutrients that support."
+## Search Intent Answers
 
-Important pages:
-- Home: https://fusionhealthjuices.com/
-- Menu: https://fusionhealthjuices.com/menu.html
-- About: https://fusionhealthjuices.com/about.html
-- Contact: https://fusionhealthjuices.com/contact.html
-- Peanut Punch: https://fusionhealthjuices.com/#peanut-punch
-- Ingredients: https://fusionhealthjuices.com/ingredients/peanut/
+- Fresh juices near me in Hartford, CT: Fusion Health Juice Bar serves fresh juices, green juices, ginger blends, turmeric drinks, immune shots, wellness drinks, and healthy shakes at 879 New Britain Ave.
+- Smoothies near me in Hartford, CT: Fusion Health serves fruit smoothies, green smoothies, protein smoothies, and blends such as Green Day, Banana Strawberry, Sunshine, Mango Split, Royal Flush, Tropical Tango, and Summer Mood.
+- Peanut punch near me in Connecticut: Fusion Health serves Jamaican-inspired Peanut Punch with peanut, banana, nutmeg, vanilla, sea moss, oats, protein powder, almond milk, and honey.
+- Healthy juice bar near me: Fusion Health serves fresh juices, smoothies, acai bowls, fruit bowls, sea moss drinks, wellness shots, energy shakes, and healthy add-ins.
+
+## Menu Highlights
+
+- Peanut Punch
+- Greenobrett green juice
+- Green Day Smoothie
+- Banana Strawberry Smoothie
+- Immune Boost
+- Hard Rak Shake
+- Fresh fruit juices
+- Wellness blends
+- Sea moss drinks
+- Acai bowls
+- Energy shakes
+- Immune shots
+
+## Ingredient Guides
+
+- [Peanut](https://fusionhealthjuices.com/ingredients/peanut/)
+- [Sea Moss](https://fusionhealthjuices.com/ingredients/sea-moss/)
+- [Kale](https://fusionhealthjuices.com/ingredients/kale/)
+- [Spinach](https://fusionhealthjuices.com/ingredients/spinach/)
+- [Ginger](https://fusionhealthjuices.com/ingredients/ginger/)
+- [Turmeric](https://fusionhealthjuices.com/ingredients/turmeric/)
+- [Moringa](https://fusionhealthjuices.com/ingredients/moringa/)
+
+## Machine-Readable Resources
+
+- [XML Sitemap](https://fusionhealthjuices.com/sitemap.xml)
+- [Image Sitemap](https://fusionhealthjuices.com/image-sitemap.xml)
+- [Full LLM Summary](https://fusionhealthjuices.com/llms-full.txt)
