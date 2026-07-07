@@ -1,0 +1,277 @@
+[
+  {
+    "name": "Peanut",
+    "slug": "peanut",
+    "description": "Peanut gives Fusion Health Juice Bar's Peanut Punch and energy shakes a rich, satisfying flavor with plant-based protein and classic Jamaican-inspired comfort.",
+    "benefits": [
+      "Contains plant-based protein",
+      "Contains nutrients that support everyday energy",
+      "Popular in creamy wellness shakes"
+    ],
+    "drinks": [
+      "Peanut Punch",
+      "Maca Madness",
+      "Power Up Shake"
+    ]
+  },
+  {
+    "name": "Aloe Vera",
+    "slug": "aloe-vera",
+    "description": "Aloe vera is a hydrating plant ingredient traditionally used in wellness routines and refreshing drinks.",
+    "benefits": [
+      "Contains antioxidants",
+      "May support hydration-focused routines",
+      "Traditionally used in refreshing wellness drinks"
+    ],
+    "drinks": [
+      "Custom juices",
+      "Wellness blends"
+    ]
+  },
+  {
+    "name": "Spinach",
+    "slug": "spinach",
+    "description": "Spinach is a leafy green used in Fusion Health juices and smoothies for its mild flavor and nutrient density.",
+    "benefits": [
+      "Rich in vitamins and minerals",
+      "Contains nutrients that support everyday wellness",
+      "Contains antioxidants"
+    ],
+    "drinks": [
+      "Greenobrett",
+      "Green Day Smoothie",
+      "Royal Flush"
+    ]
+  },
+  {
+    "name": "Celery",
+    "slug": "celery",
+    "description": "Celery is a crisp, hydrating ingredient commonly used in green juices and wellness blends.",
+    "benefits": [
+      "Popular in hydrating green juices",
+      "Contains antioxidants",
+      "Traditionally used in clean, refreshing blends"
+    ],
+    "drinks": [
+      "Greenobrett",
+      "Spring Juice",
+      "Gut Cleanse"
+    ]
+  },
+  {
+    "name": "Parsley",
+    "slug": "parsley",
+    "description": "Parsley is a bright herb used in select green juices for its fresh flavor and micronutrient profile.",
+    "benefits": [
+      "Source of Vitamin A",
+      "Source of Vitamin C",
+      "Source of Vitamin K"
+    ],
+    "drinks": [
+      "Green Goodness",
+      "Eye Health"
+    ]
+  },
+  {
+    "name": "Kale",
+    "slug": "kale",
+    "description": "Kale is a nutrient-dense leafy green commonly used in juices and smoothies at Fusion Health Juice Bar.",
+    "benefits": [
+      "Rich in antioxidants",
+      "Contains vitamins A, C, and K",
+      "Contains iron and calcium"
+    ],
+    "drinks": [
+      "Greenobrett",
+      "Weight Loss",
+      "Royal Flush"
+    ]
+  },
+  {
+    "name": "Ashwagandha",
+    "slug": "ashwagandha",
+    "description": "Ashwagandha is an adaptogenic herb traditionally used in wellness practices for balance and everyday routines.",
+    "benefits": [
+      "Traditionally used for balance",
+      "Popular in wellness add-ins",
+      "Traditionally used for overall wellness"
+    ],
+    "drinks": [
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Cucumber",
+    "slug": "cucumber",
+    "description": "Cucumber brings a clean, cooling flavor to green juices and helps create a refreshing, hydrating blend.",
+    "benefits": [
+      "Popular in hydrating green juices",
+      "Low calorie ingredient",
+      "Contains vitamins and minerals"
+    ],
+    "drinks": [
+      "Greenobrett",
+      "Skin Shady",
+      "Spotless"
+    ]
+  },
+  {
+    "name": "Cayenne Pepper",
+    "slug": "cayenne-pepper",
+    "description": "Cayenne pepper is a warming spice traditionally used in wellness shots and bold juice blends.",
+    "benefits": [
+      "Traditionally used in warming wellness drinks",
+      "Adds bold flavor to juice shots",
+      "Contains antioxidants"
+    ],
+    "drinks": [
+      "Immune Shots"
+    ]
+  },
+  {
+    "name": "Moringa",
+    "slug": "moringa",
+    "description": "Moringa is a plant ingredient traditionally valued for its antioxidant content and broad nutrient profile.",
+    "benefits": [
+      "Rich in antioxidants",
+      "Contains vitamins and minerals",
+      "Traditionally used in wellness routines"
+    ],
+    "drinks": [
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Maca",
+    "slug": "maca",
+    "description": "Maca is a root ingredient traditionally associated with energy, stamina, and everyday wellbeing.",
+    "benefits": [
+      "Traditionally used in energizing blends",
+      "Popular in hearty smoothies",
+      "Traditionally used for everyday wellbeing"
+    ],
+    "drinks": [
+      "Maca Madness",
+      "Skin Glo",
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Chia Seeds",
+    "slug": "chia-seeds",
+    "description": "Chia seeds are small seeds often added to bowls and smoothies for fiber, texture, and plant-based omega-3s.",
+    "benefits": [
+      "Rich in fiber",
+      "Source of omega-3 fatty acids",
+      "Popular in filling smoothies and bowls"
+    ],
+    "drinks": [
+      "Smooth It Up",
+      "Fruitopia"
+    ]
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "slug": "pumpkin-seeds",
+    "description": "Pumpkin seeds add plant-based protein, minerals, and a hearty flavor to smoothies and bowls.",
+    "benefits": [
+      "Source of protein",
+      "Rich in zinc",
+      "Contains minerals"
+    ],
+    "drinks": [
+      "Smooth It Up",
+      "Morning Magic",
+      "Pumpkin Seed Energy Shake"
+    ]
+  },
+  {
+    "name": "Flaxseeds",
+    "slug": "flaxseeds",
+    "description": "Flaxseeds are fiber-rich seeds used in select wellness blends, shakes, and acai bowls.",
+    "benefits": [
+      "Rich in fiber",
+      "Contains omega-3 fatty acids",
+      "Popular in hearty wellness blends"
+    ],
+    "drinks": [
+      "Weight Loss",
+      "Fusion Protein Shake",
+      "Ocean Bowl"
+    ]
+  },
+  {
+    "name": "Turmeric",
+    "slug": "turmeric",
+    "description": "Turmeric is a golden root traditionally used in wellness drinks for its warm flavor and antioxidant profile.",
+    "benefits": [
+      "Rich in antioxidants",
+      "Traditionally used in wellness routines",
+      "Adds warm flavor to juices and shots"
+    ],
+    "drinks": [
+      "Immune Boost",
+      "Immune Shots",
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Bee Pollen",
+    "slug": "bee-pollen",
+    "description": "Bee pollen is a nutrient-containing add-in traditionally associated with wellness routines.",
+    "benefits": [
+      "Contains antioxidants",
+      "Source of nutrients",
+      "Popular as a bowl add-in"
+    ],
+    "drinks": [
+      "Ocean Bowl",
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Ginseng",
+    "slug": "ginseng",
+    "description": "Ginseng is a root traditionally used in wellness practices for energy, focus, and everyday balance.",
+    "benefits": [
+      "Traditionally used in energizing blends",
+      "Popular in hearty shakes",
+      "Traditionally used for everyday balance"
+    ],
+    "drinks": [
+      "Hard Rak Shake",
+      "Super Duper Shake",
+      "Add Extras"
+    ]
+  },
+  {
+    "name": "Sea Moss",
+    "slug": "sea-moss",
+    "description": "Sea moss is a mineral-rich sea vegetable used in Fusion Health energy shakes and wellness add-ins.",
+    "benefits": [
+      "Rich in minerals",
+      "Popular in Jamaican-inspired wellness drinks",
+      "Traditionally used in nourishing blends"
+    ],
+    "drinks": [
+      "Peanut Punch",
+      "Hard Rak Shake",
+      "Super Duper Shake"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "slug": "ginger",
+    "description": "Ginger brings bright, warming flavor to fresh juices, green juices, wellness shots, and Jamaican-inspired drinks at Fusion Health Juice Bar.",
+    "benefits": [
+      "Traditionally used in wellness drinks",
+      "Adds a bright, warming finish",
+      "Popular in green juices and shots"
+    ],
+    "drinks": [
+      "Greenobrett",
+      "Immune Boost",
+      "Immune Shots"
+    ]
+  }
+]

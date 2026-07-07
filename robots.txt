@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fusionhealthjuices.com/sitemap.xml
+Sitemap: https://fusionhealthjuices.com/image-sitemap.xml
