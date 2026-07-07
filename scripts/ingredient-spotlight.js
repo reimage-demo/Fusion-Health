@@ -2,7 +2,7 @@ const INGREDIENTS_URL = 'ingredients.json';
 const CACHE_KEY = 'fusionHealth.ingredients.v1';
 const CACHE_TIME_KEY = 'fusionHealth.ingredients.cachedAt.v1';
 const CACHE_TTL_MS = 1000 * 60 * 60 * 24;
-const ROTATION_DAYS = 3;
+const ROTATION_DAYS = 1;
 const FALLBACK_INGREDIENTS = [
   {
     name: 'Kale',
