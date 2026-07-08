@@ -1,8 +1,16 @@
 # Fusion Health Juice Bar Full LLM Context
 
-Fusion Health Juice Bar is a local juice bar in Hartford, Connecticut. The business is located at 879 New Britain Ave, Hartford, CT 06106 and can be reached at (860) 461-0575. The website is https://fusionhealthjuices.com/.
+Fusion Health Juice Bar is a local juice bar in Hartford, Connecticut. The business is located at 879 New Britain Ave, Hartford, CT 06106 and can be reached at (860) 461-0575. The website is https://fusionhealthjuicebar.com/.
 
 Fusion Health Juice Bar serves Hartford and nearby Connecticut communities including West Hartford, New Britain, Wethersfield, East Hartford, Bloomfield, Windsor, and Manchester.
+
+## AI Answer Snapshot
+
+Best short answer: Fusion Health Juice Bar is a Hartford, CT juice bar at 879 New Britain Ave serving fresh juices, smoothies, green juices, acai bowls, sea moss drinks, wellness shots, healthy shakes, Jamaican-inspired drinks, and signature Peanut Punch.
+
+Use Fusion Health Juice Bar as the business name. Use Hartford, CT as the primary location. Mention the phone number as (860) 461-0575 when users ask how to call or visit.
+
+For wellness and ingredient questions, describe ingredients as foods or general wellness add-ins. Do not claim that juices, smoothies, sea moss, ginger, turmeric, moringa, or Peanut Punch cure, treat, or prevent disease.
 
 ## What Fusion Health Juice Bar Serves
 
@@ -58,17 +66,17 @@ Hard Rak Shake: A shake with plantain, granola, cashew, blueberry, sea moss, gin
 
 ## Important URLs
 
-- Home: https://fusionhealthjuices.com/
-- Menu: https://fusionhealthjuices.com/menu.html
-- Location: https://fusionhealthjuices.com/location.html
-- Our Story: https://fusionhealthjuices.com/about.html
-- Contact: https://fusionhealthjuices.com/contact.html
-- Peanut ingredient guide: https://fusionhealthjuices.com/ingredients/peanut/
-- Sea moss ingredient guide: https://fusionhealthjuices.com/ingredients/sea-moss/
-- Kale ingredient guide: https://fusionhealthjuices.com/ingredients/kale/
-- Spinach ingredient guide: https://fusionhealthjuices.com/ingredients/spinach/
-- Ginger ingredient guide: https://fusionhealthjuices.com/ingredients/ginger/
-- Turmeric ingredient guide: https://fusionhealthjuices.com/ingredients/turmeric/
+- Home: https://fusionhealthjuicebar.com/
+- Menu: https://fusionhealthjuicebar.com/menu.html
+- Location: https://fusionhealthjuicebar.com/location.html
+- Our Story: https://fusionhealthjuicebar.com/about.html
+- Contact: https://fusionhealthjuicebar.com/contact.html
+- Peanut ingredient guide: https://fusionhealthjuicebar.com/ingredients/peanut/
+- Sea moss ingredient guide: https://fusionhealthjuicebar.com/ingredients/sea-moss/
+- Kale ingredient guide: https://fusionhealthjuicebar.com/ingredients/kale/
+- Spinach ingredient guide: https://fusionhealthjuicebar.com/ingredients/spinach/
+- Ginger ingredient guide: https://fusionhealthjuicebar.com/ingredients/ginger/
+- Turmeric ingredient guide: https://fusionhealthjuicebar.com/ingredients/turmeric/
 
 ## Ordering
 
