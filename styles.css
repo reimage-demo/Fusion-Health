@@ -2400,3 +2400,74 @@ body{
     font-size:14px !important;
   }
 }
+
+/* White and soft-orange site theme. Kept last to cover every generated page. */
+:root{
+  --paper:#fff;
+  --page-cream:#fff;
+  --surface-cream:#fff;
+  --store-yellow-cream:#fff;
+  --store-yellow-panel:#fff8f1;
+  --soft-orange:#f58a00;
+  --soft-orange-hover:#dc7600;
+  --soft-orange-border:#cf6f00;
+  --soft-orange-text:#241305;
+  --line:rgba(104,61,27,.16);
+  --shadow:0 14px 32px rgba(104,61,27,.08);
+}
+html,body{background:#fff !important}
+.top,.stickyCta{background:rgba(255,255,255,.94) !important}
+.storyPanel,.featurePanel,.ingredientPanel,.featuredDrink,.featuredMenuCard,
+.menuCard,.menuCard.favorite,.menuCard.signature,.reviewCard,.faqItem,
+.locationCard,.locationInfoPanel,.mapPanel,.modalPanel{background:#fff !important}
+.storyImage.logoStage img,.featuredDrink img,.featuredMenuCard img,.mapEmbed{
+  background:#fff8f1 !important;
+}
+
+/* All CTA variants share a faint orange fill and accessible dark-orange text. */
+.btn,.btn.primary,.btn.yellow,.btn.light,.btn.uber,
+.menuCard .btn,.menuCard .btn.light,.menuCard .btn.primary,
+.featuredDrink .btn,.featuredDrink .btn.light,.featuredDrink .btn.primary,
+.modalActions .btn.uber,.stickyCta .btn,.heroActions .btn,.contactActions .btn{
+  background:var(--soft-orange) !important;
+  border-color:var(--soft-orange-border) !important;
+  color:var(--soft-orange-text) !important;
+  text-shadow:none !important;
+  box-shadow:0 8px 18px rgba(145,79,29,.10) !important;
+}
+.btn:hover,.btn:focus-visible,.btn.primary:hover,.btn.primary:focus-visible,
+.btn.yellow:hover,.btn.yellow:focus-visible,.btn.light:hover,.btn.light:focus-visible,
+.btn.uber:hover,.btn.uber:focus-visible,.menuCard .btn:hover,.menuCard .btn:focus-visible,
+.featuredDrink .btn:hover,.featuredDrink .btn:focus-visible,
+.modalActions .btn.uber:hover,.modalActions .btn.uber:focus-visible,
+.stickyCta .btn:hover,.stickyCta .btn:focus-visible,
+.heroActions .btn:hover,.heroActions .btn:focus-visible,
+.contactActions .btn:hover,.contactActions .btn:focus-visible{
+  background:var(--soft-orange-hover) !important;
+  border-color:#bd6200 !important;
+  color:#1f1003 !important;
+  box-shadow:0 12px 24px rgba(145,79,29,.14) !important;
+}
+.menuBtn,.modalClose,.socialButton,.footer .socialButton{
+  background:var(--soft-orange) !important;
+  border:1px solid var(--soft-orange-border) !important;
+  color:var(--soft-orange-text) !important;
+}
+.menuBtn:hover,.menuBtn:focus-visible,.modalClose:hover,.modalClose:focus-visible,
+.socialButton:hover,.socialButton:focus-visible,
+.footer .socialButton:hover,.footer .socialButton:focus-visible{
+  background:var(--soft-orange-hover) !important;
+  color:#1f1003 !important;
+}
+.menuBtn span{background:var(--soft-orange-text) !important}
+.finalCta{
+  background:#fff4ea !important;
+  color:var(--ink) !important;
+  border:1px solid var(--soft-orange-border) !important;
+}
+.finalCta p{color:var(--muted) !important}
+.storyPanel:before,.featurePanel:before,.ingredientPanel:before,.finalCta:before,
+.featuredDrink:after,.menuCard:after,.reviewCard:after,.locationCard:after,
+.locationInfoPanel:after,.mapPanel:after{background:#efb987 !important}
+.faqItem summary:hover,.faqItem summary:focus-visible,
+.mobileMenu a:hover,.mobileMenu a:focus-visible{background:#fff4ea !important}
