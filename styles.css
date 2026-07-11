@@ -2401,6 +2401,91 @@ body{
   }
 }
 
+/* Peanut Punch video and first-visit introduction. */
+#peanut-punch .featureImage .peanutPunchVideo{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+}
+.welcomeVideoModal{
+  position:fixed;
+  inset:0;
+  z-index:120;
+  display:none;
+  place-items:center;
+  padding:20px;
+  background:rgba(17,17,15,.76);
+  backdrop-filter:blur(8px);
+}
+.welcomeVideoModal.open{display:grid}
+.welcomeVideoPanel{
+  width:min(520px,100%);
+  max-height:calc(100vh - 40px);
+  overflow:auto;
+  padding:20px;
+  border-radius:24px;
+  background:#fff;
+  box-shadow:0 30px 80px rgba(0,0,0,.3);
+  text-align:center;
+  animation:welcomeVideoIn .3s ease-out both;
+}
+.welcomeVideoPanel h2{
+  margin:0 0 6px;
+  font-size:clamp(26px,5vw,38px);
+  line-height:1.05;
+}
+.welcomeVideoPanel p{
+  margin:0 auto 14px;
+  color:var(--muted);
+  line-height:1.45;
+}
+.welcomeVideo{
+  display:block;
+  width:100%;
+  max-height:min(58vh,560px);
+  border-radius:18px;
+  background:#fff;
+  object-fit:contain;
+  pointer-events:none;
+}
+.welcomeVideoActions{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:10px;
+  max-height:0;
+  margin-top:0;
+  overflow:hidden;
+  opacity:0;
+  visibility:hidden;
+  transform:translateY(8px);
+  transition:max-height .3s ease,margin .3s ease,opacity .3s ease,transform .3s ease;
+}
+.welcomeVideoActions.visible{
+  max-height:80px;
+  margin-top:14px;
+  opacity:1;
+  visibility:visible;
+  transform:none;
+}
+.welcomeVideoLater{border:1px solid rgba(20,18,13,.16)}
+body.has-welcome-video{overflow:hidden}
+@keyframes welcomeVideoIn{
+  from{opacity:0;transform:translateY(14px) scale(.98)}
+  to{opacity:1;transform:none}
+}
+@media(max-width:520px){
+  .welcomeVideoModal{padding:10px}
+  .welcomeVideoPanel{padding:14px;border-radius:20px}
+  .welcomeVideoActions{grid-template-columns:1fr}
+  .welcomeVideoActions.visible{max-height:140px}
+}
+@media(prefers-reduced-motion:reduce){
+  .welcomeVideoPanel{animation:none}
+  .welcomeVideoActions{transition:none}
+}
+
 /* White and soft-orange site theme. Kept last to cover every generated page. */
 :root{
   --paper:#fff;
@@ -2471,3 +2556,197 @@ html,body{background:#fff !important}
 .locationInfoPanel:after,.mapPanel:after{background:#efb987 !important}
 .faqItem summary:hover,.faqItem summary:focus-visible,
 .mobileMenu a:hover,.mobileMenu a:focus-visible{background:#fff4ea !important}
+
+/* Compact, straight-edged orange button system. */
+.btn,
+.btn.primary,
+.btn.yellow,
+.btn.light,
+.btn.uber,
+.order-now,
+.order-item,
+.menuCard .btn,
+.featuredDrink .btn,
+.modalActions .btn,
+.stickyCta .btn,
+.heroActions .btn,
+.contactActions .btn{
+  width:auto !important;
+  min-width:0 !important;
+  min-height:44px !important;
+  padding:10px 18px !important;
+  border:1px solid var(--soft-orange-border) !important;
+  border-radius:10px !important;
+  background:var(--soft-orange) !important;
+  background-image:none !important;
+  color:var(--soft-orange-text) !important;
+  font-size:15px !important;
+  line-height:1.2 !important;
+  font-weight:750 !important;
+  letter-spacing:0 !important;
+  box-shadow:none !important;
+  text-shadow:none !important;
+  transform:none !important;
+}
+.btn:hover,
+.btn:focus-visible,
+.order-now:hover,
+.order-now:focus-visible,
+.order-item:hover,
+.order-item:focus-visible,
+.menuCard .btn:hover,
+.menuCard .btn:focus-visible,
+.modalActions .btn:hover,
+.modalActions .btn:focus-visible,
+.stickyCta .btn:hover,
+.stickyCta .btn:focus-visible,
+.heroActions .btn:hover,
+.heroActions .btn:focus-visible,
+.contactActions .btn:hover,
+.contactActions .btn:focus-visible{
+  background:var(--soft-orange-hover) !important;
+  border-color:#bd6200 !important;
+  color:#1f1003 !important;
+  box-shadow:none !important;
+  transform:none !important;
+}
+.btn.light,
+.btn.yellow,
+.stickyCta .btn.light,
+.heroActions .btn.light,
+.contactActions .btn.light{
+  background:var(--soft-orange) !important;
+  border-color:var(--soft-orange-border) !important;
+  color:var(--soft-orange-text) !important;
+}
+.btn.light:hover,
+.btn.light:focus-visible,
+.btn.yellow:hover,
+.btn.yellow:focus-visible,
+.stickyCta .btn.light:hover,
+.heroActions .btn.light:hover,
+.contactActions .btn.light:hover{
+  background:var(--soft-orange-hover) !important;
+  border-color:#bd6200 !important;
+  color:#1f1003 !important;
+}
+.btn.uber,
+.modalActions .btn.uber{
+  background:var(--soft-orange) !important;
+  border-color:var(--soft-orange-border) !important;
+  color:var(--soft-orange-text) !important;
+}
+.btn.uber:hover,
+.btn.uber:focus-visible,
+.modalActions .btn.uber:hover,
+.modalActions .btn.uber:focus-visible{
+  background:var(--soft-orange-hover) !important;
+  border-color:#bd6200 !important;
+  color:#1f1003 !important;
+}
+.heroActions,
+.contactActions,
+.modalActions{
+  align-items:center !important;
+}
+.menuCard .btn,
+.featuredDrink .btn{
+  align-self:flex-start !important;
+  margin-top:auto !important;
+}
+#peanut-punch .heroActions{
+  display:flex !important;
+  grid-template-columns:none !important;
+  flex-wrap:wrap !important;
+}
+#peanut-punch .heroActions .btn{width:auto !important}
+.modalActions{
+  display:grid !important;
+  grid-template-columns:1fr !important;
+  gap:10px !important;
+  width:100% !important;
+}
+.modalActions .btn{
+  width:100% !important;
+}
+#doorDashLink{
+  background:#d71920 !important;
+  border-color:#b9141a !important;
+  color:#fff !important;
+}
+#doorDashLink:hover,
+#doorDashLink:focus-visible{
+  background:#b9141a !important;
+  border-color:#9f1016 !important;
+  color:#fff !important;
+}
+.modalActions #uberLink,
+.modalActions .btn.uber{
+  background:#06c167 !important;
+  border-color:#05a958 !important;
+  color:#08150d !important;
+}
+.modalActions #uberLink:hover,
+.modalActions #uberLink:focus-visible,
+.modalActions .btn.uber:hover,
+.modalActions .btn.uber:focus-visible{
+  background:#05ad5c !important;
+  border-color:#05934f !important;
+  color:#08150d !important;
+}
+.modalClose{
+  width:auto !important;
+  min-height:38px !important;
+  margin:12px auto 0 !important;
+  padding:8px 12px !important;
+  border:0 !important;
+  border-radius:8px !important;
+  background:transparent !important;
+  color:#555 !important;
+  box-shadow:none !important;
+}
+.welcomeVideoSkip{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:38px;
+  margin:12px auto 0;
+  padding:8px 14px;
+  border:1px solid var(--soft-orange-border);
+  border-radius:8px;
+  background:var(--soft-orange);
+  color:var(--soft-orange-text);
+  font:inherit;
+  font-size:14px;
+  font-weight:750;
+  cursor:pointer;
+}
+.welcomeVideoSkip:hover,
+.welcomeVideoSkip:focus-visible{background:var(--soft-orange-hover);border-color:#bd6200}
+.welcomeVideoSkip.hidden{display:none}
+.welcomeVideoActions{justify-content:center}
+.welcomeVideoActions .btn{min-width:130px !important}
+@media(max-width:520px){
+  .welcomeVideoActions{display:flex;flex-wrap:wrap}
+  .welcomeVideoActions.visible{max-height:140px}
+  .welcomeVideoActions .btn{flex:0 1 auto}
+}
+
+/* Clean full-width brand mark in every shared navigation header. */
+.brand img{
+  content:url("assets/fusion-health-logo-clean.png");
+  width:158px !important;
+  height:64px !important;
+  padding:0 !important;
+  border-radius:0 !important;
+  background:transparent !important;
+  object-fit:contain !important;
+  box-shadow:none !important;
+}
+.brand > span{display:none}
+@media(max-width:760px){
+  .brand img{
+    width:132px !important;
+    height:58px !important;
+  }
+}

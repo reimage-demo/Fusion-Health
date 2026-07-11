@@ -34,7 +34,7 @@
   <header class="top">
     <div class="wrap nav">
       <a class="brand" href="index.html" aria-label="Fusion Health Juice Bar home">
-        <img decoding="async" src="logo-small.webp" width="66" height="66" alt="Fusion Health Juice Bar logo in Hartford CT">
+        <img decoding="async" src="assets/fusion-health-logo-clean.png" width="158" height="100" alt="Fusion Health Juice Bar logo in Hartford CT">
         <span>Fusion Health Juice Bar</span>
       </a>
       <nav class="links" aria-label="Main navigation">
@@ -100,7 +100,10 @@
           </div>
         </div>
         <div class="featureImage">
-          <img decoding="async" src="assets/peanut-punch.webp" width="1024" height="1536" loading="lazy" alt="Peanut Punch healthy Jamaican-inspired shake with sea moss oats almond milk banana and honey from Fusion Health Juice Bar in Hartford CT">
+          <video class="peanutPunchVideo" autoplay muted loop playsinline preload="metadata" aria-label="Peanut Punch swirling in a clear cup">
+            <source src="assets/video/peanut-punch.mp4" type="video/mp4">
+            Your browser does not support embedded video.
+          </video>
         </div>
       </div>
     </section>
@@ -421,6 +424,22 @@
     <a class="btn light" href="menu.html">Menu</a>
   </div>
 
+  <div class="welcomeVideoModal" id="welcomeVideoModal" role="dialog" aria-modal="true" aria-labelledby="welcomeVideoTitle" aria-hidden="true">
+    <div class="welcomeVideoPanel">
+      <h2 id="welcomeVideoTitle">Meet our Peanut Punch.</h2>
+      <p>Rich, smooth, and made to satisfy. Watch the pour, then order yours.</p>
+      <video class="welcomeVideo" autoplay muted playsinline preload="auto" aria-label="Peanut Punch swirling in a clear cup">
+        <source src="assets/video/peanut-punch.mp4" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+      <button class="welcomeVideoSkip" type="button">Skip video</button>
+      <div class="welcomeVideoActions" aria-hidden="true">
+        <a class="btn primary order-item" data-item="Peanut Punch" href="#">Order Now</a>
+        <button class="btn light welcomeVideoLater" type="button">Maybe Later</button>
+      </div>
+    </div>
+  </div>
+
   <div class="modal" id="orderModal" role="dialog" aria-modal="true" aria-labelledby="orderTitle">
     <div class="modalPanel">
       <h2 id="orderTitle">Choose how to order</h2>
@@ -453,6 +472,72 @@
         }
       }, 3000);
     }
+
+    const welcomeVideoModal = document.querySelector('#welcomeVideoModal');
+    const welcomeVideo = welcomeVideoModal?.querySelector('.welcomeVideo');
+    const welcomeVideoActions = welcomeVideoModal?.querySelector('.welcomeVideoActions');
+    const welcomeVideoSkip = welcomeVideoModal?.querySelector('.welcomeVideoSkip');
+    const welcomeVideoLater = welcomeVideoModal?.querySelector('.welcomeVideoLater');
+    const welcomeOrderButton = welcomeVideoModal?.querySelector('.order-item');
+    const welcomeVisitKey = 'fusion-health-welcome-video-seen';
+
+    function closeWelcomeVideo(){
+      if(!welcomeVideoModal) return;
+      welcomeVideo.pause();
+      welcomeVideoModal.classList.remove('open');
+      welcomeVideoModal.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('has-welcome-video');
+    }
+
+    function revealWelcomeActions(){
+      if(!welcomeVideoActions) return;
+      welcomeVideo.pause();
+      welcomeVideoSkip?.classList.add('hidden');
+      welcomeVideoActions.classList.add('visible');
+      welcomeVideoActions.setAttribute('aria-hidden', 'false');
+      welcomeOrderButton?.focus({preventScroll:true});
+    }
+
+    let hasSeenWelcomeVideo = true;
+    try{
+      hasSeenWelcomeVideo = localStorage.getItem(welcomeVisitKey) === 'true';
+    }catch(error){
+      hasSeenWelcomeVideo = false;
+    }
+
+    function openReadyWelcomeVideo(){
+      if(!welcomeVideoModal || !welcomeVideo || welcomeVideoModal.classList.contains('open')) return;
+      try{ localStorage.setItem(welcomeVisitKey, 'true'); }catch(error){}
+      welcomeVideo.defaultMuted = true;
+      welcomeVideo.muted = true;
+      welcomeVideo.setAttribute('muted', '');
+      welcomeVideo.setAttribute('autoplay', '');
+      welcomeVideoModal.classList.add('open');
+      welcomeVideoModal.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('has-welcome-video');
+      welcomeVideo.play().catch(()=>{});
+    }
+
+    if(welcomeVideoModal && welcomeVideo && !hasSeenWelcomeVideo){
+      if(welcomeVideo.readyState >= HTMLMediaElement.HAVE_CURRENT_DATA){
+        openReadyWelcomeVideo();
+      }else{
+        welcomeVideo.addEventListener('loadeddata', openReadyWelcomeVideo, {once:true});
+        welcomeVideo.load();
+      }
+    }
+
+    welcomeVideo?.addEventListener('ended', revealWelcomeActions);
+    welcomeVideo?.addEventListener('error', revealWelcomeActions);
+    welcomeVideoSkip?.addEventListener('click', revealWelcomeActions);
+    welcomeVideoLater?.addEventListener('click', closeWelcomeVideo);
+    welcomeOrderButton?.addEventListener('click', closeWelcomeVideo);
+
+    document.addEventListener('keydown',(event)=>{
+      if(event.key === 'Escape' && welcomeVideoModal?.classList.contains('open')){
+        closeWelcomeVideo();
+      }
+    });
   </script>
   <script type="module" src="scripts/ingredient-spotlight.js"></script>
   <script async src="https://www.instagram.com/embed.js"></script>
