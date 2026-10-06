@@ -10,8 +10,8 @@
     ],
     "drinks": [
       "Peanut Punch",
-      "Maca Madness",
-      "Power Up Shake"
+      "Maca Madness Shake",
+      "Super Duper Shake"
     ]
   },
   {
@@ -23,10 +23,7 @@
       "May support hydration-focused routines",
       "Traditionally used in refreshing wellness drinks"
     ],
-    "drinks": [
-      "Custom juices",
-      "Wellness blends"
-    ]
+    "drinks": []
   },
   {
     "name": "Spinach",
@@ -38,9 +35,9 @@
       "Contains antioxidants"
     ],
     "drinks": [
-      "Greenobrett",
-      "Green Day Smoothie",
-      "Royal Flush"
+      "Green Goodness",
+      "Rainbow Juice",
+      "Cold Helper"
     ]
   },
   {
@@ -53,8 +50,8 @@
       "Traditionally used in clean, refreshing blends"
     ],
     "drinks": [
-      "Greenobrett",
-      "Spring Juice",
+      "Green Goodness",
+      "Headache Relief",
       "Gut Cleanse"
     ]
   },
@@ -82,9 +79,9 @@
       "Contains iron and calcium"
     ],
     "drinks": [
-      "Greenobrett",
+      "Green Goodness",
       "Weight Loss",
-      "Royal Flush"
+      "Lower Cholesterol"
     ]
   },
   {
@@ -97,7 +94,8 @@
       "Traditionally used for overall wellness"
     ],
     "drinks": [
-      "Add Extras"
+      "Fusion Super Shake",
+      "Plantain Power"
     ]
   },
   {
@@ -110,9 +108,9 @@
       "Contains vitamins and minerals"
     ],
     "drinks": [
-      "Greenobrett",
-      "Skin Shady",
-      "Spotless"
+      "Green Goodness",
+      "Skin Shady Juice",
+      "Weight Loss"
     ]
   },
   {
@@ -138,7 +136,7 @@
       "Traditionally used in wellness routines"
     ],
     "drinks": [
-      "Add Extras"
+      "Royal Flush"
     ]
   },
   {
@@ -150,11 +148,7 @@
       "Popular in hearty smoothies",
       "Traditionally used for everyday wellbeing"
     ],
-    "drinks": [
-      "Maca Madness",
-      "Skin Glo",
-      "Add Extras"
-    ]
+    "drinks": []
   },
   {
     "name": "Chia Seeds",
@@ -165,10 +159,7 @@
       "Source of omega-3 fatty acids",
       "Popular in filling smoothies and bowls"
     ],
-    "drinks": [
-      "Smooth It Up",
-      "Fruitopia"
-    ]
+    "drinks": []
   },
   {
     "name": "Pumpkin Seeds",
@@ -180,9 +171,9 @@
       "Contains minerals"
     ],
     "drinks": [
-      "Smooth It Up",
       "Morning Magic",
-      "Pumpkin Seed Energy Shake"
+      "Fusion Super Shake",
+      "Pumpkin Seed Shake"
     ]
   },
   {
@@ -196,8 +187,8 @@
     ],
     "drinks": [
       "Weight Loss",
-      "Fusion Protein Shake",
-      "Ocean Bowl"
+      "Lower Cholesterol",
+      "Super Duper Shake"
     ]
   },
   {
@@ -211,8 +202,7 @@
     ],
     "drinks": [
       "Immune Boost",
-      "Immune Shots",
-      "Add Extras"
+      "Immune Shots"
     ]
   },
   {
@@ -225,8 +215,8 @@
       "Popular as a bowl add-in"
     ],
     "drinks": [
-      "Ocean Bowl",
-      "Add Extras"
+      "Peanut Punch",
+      "Plantain Power"
     ]
   },
   {
@@ -239,9 +229,9 @@
       "Traditionally used for everyday balance"
     ],
     "drinks": [
-      "Hard Rak Shake",
-      "Super Duper Shake",
-      "Add Extras"
+      "Hard Rock Shake",
+      "Fusion Super Shake",
+      "Power Up Shake"
     ]
   },
   {
@@ -255,8 +245,8 @@
     ],
     "drinks": [
       "Peanut Punch",
-      "Hard Rak Shake",
-      "Super Duper Shake"
+      "Super Duper Shake",
+      "Hard Rock Shake"
     ]
   },
   {
@@ -269,9 +259,9 @@
       "Popular in green juices and shots"
     ],
     "drinks": [
-      "Greenobrett",
-      "Immune Boost",
-      "Immune Shots"
+      "Green Goodness",
+      "Passion Juice",
+      "Orange Delight"
     ]
   }
 ]

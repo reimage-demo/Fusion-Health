@@ -1,6 +1,6 @@
 const INGREDIENTS_URL = 'ingredients.json';
-const CACHE_KEY = 'fusionHealth.ingredients.v1';
-const CACHE_TIME_KEY = 'fusionHealth.ingredients.cachedAt.v1';
+const CACHE_KEY = 'fusionHealth.ingredients.v2';
+const CACHE_TIME_KEY = 'fusionHealth.ingredients.cachedAt.v2';
 const CACHE_TTL_MS = 1000 * 60 * 60 * 24;
 const ROTATION_DAYS = 1;
 const FALLBACK_INGREDIENTS = [
@@ -13,7 +13,7 @@ const FALLBACK_INGREDIENTS = [
       'Contains vitamins A, C, and K',
       'Contains iron and calcium'
     ],
-    drinks: ['Greenobrett', 'Royal Flush']
+    drinks: ['Green Goodness', 'Royal Flush']
   }
 ];
 
@@ -43,7 +43,7 @@ async function loadIngredients(){
 
   const response = await fetch(INGREDIENTS_URL, {cache: 'no-cache'});
   if(!response.ok) throw new Error(`Could not load ${INGREDIENTS_URL}`);
-  const ingredients = await response.json();
+  const ingredients = (await response.json()).filter(ingredient => ingredient.drinks?.length);
   if(!Array.isArray(ingredients) || !ingredients.length) throw new Error('Ingredient data is empty');
   writeCache(ingredients);
   return ingredients;

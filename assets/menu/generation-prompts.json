@@ -1,0 +1,575 @@
+{
+  "generator": "Built-in image_gen imagegen",
+  "date": "2026-10-05",
+  "styleReference": "assets/greenobrett.png",
+  "notes": "39 distinct new generations; 5 retained website images. Uploaded menu boards were used for content only, never extracted. Each selected image was visually checked for composition, branding, and recipe suitability.",
+  "assets": [
+    {
+      "name": "Green Goodness",
+      "slug": "green-goodness",
+      "mode": "generated",
+      "original": "assets/menu/originals/green-goodness.png",
+      "web": [
+        "assets/menu/green-goodness-320.webp",
+        "assets/menu/green-goodness-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Generate one new portrait 2:3 product photograph for Fusion Health Juice Bar's Green Goodness juice. Use the attached existing website photo ONLY as a style/composition/branding reference, not as the target product. Match the realistic clear plastic takeaway cup and flat clear lid, accurate Fusion Health Juice Bar logo sticker, cream studio background, soft lighting, and flowing orange/red/blue/green painted swirls on the tabletop. Center the complete cup with generous margins, matching the reference scale. Green Goodness ingredients: green apple, cucumber, celery, spinach, kale, parsley, lemon, ginger. Fresh deep leafy green juice texture. A small green apple and lemon wedge beside the base, no other props. No menu text, title, price or watermark. This must be a fresh generated product photograph, not extracted from a menu. Save the generated image.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-efbee7c1-7d32-4ad9-9135-ad286122a5b5.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Passion Juice",
+      "slug": "passion-juice",
+      "mode": "generated",
+      "original": "assets/menu/originals/passion-juice.png",
+      "web": [
+        "assets/menu/passion-juice-320.webp",
+        "assets/menu/passion-juice-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Passion Juice. Ingredients: Ginger, passion fruit, carrot, mango, orange. Appearance and minimal ingredient props: vivid golden orange juice; halved passion fruit and mango cubes. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid, Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete cup centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One cup only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-3bdaf841-1b55-441b-83d9-4babae6186e5.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Orange Delight",
+      "slug": "orange-delight",
+      "mode": "generated",
+      "original": "assets/menu/originals/orange-delight.png",
+      "web": [
+        "assets/menu/orange-delight-320.webp",
+        "assets/menu/orange-delight-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Orange Delight. Ingredients: Carrot, orange, mango, ginger. Appearance and minimal ingredient props: bright orange juice; orange wedge and small carrot. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid, Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete cup centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One cup only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-bb74621c-5242-452d-8bef-6e72f090a9d7.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "ABC Juice",
+      "slug": "abc-juice",
+      "mode": "generated",
+      "original": "assets/menu/originals/abc-juice.png",
+      "web": [
+        "assets/menu/abc-juice-320.webp",
+        "assets/menu/abc-juice-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: ABC Juice. Ingredients: Beets, apple, carrot, lemon, ginger. Appearance and minimal ingredient props: deep ruby beet juice; beet slice and apple wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid, Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete cup centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One cup only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-e083d0c9-b81c-4fea-92e0-794b7af86405.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Tropical Delight",
+      "slug": "tropical-delight",
+      "mode": "generated",
+      "original": "assets/menu/originals/tropical-delight.png",
+      "web": [
+        "assets/menu/tropical-delight-320.webp",
+        "assets/menu/tropical-delight-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Tropical Delight. Ingredients: Carrot, pineapple, orange, ginger. Appearance and minimal ingredient props: sunny orange gold juice; pineapple wedge and orange slice. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid, Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete cup centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One cup only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-9833c882-d464-4dd6-8d93-1ad1491394a3.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Rainbow Juice",
+      "slug": "rainbow-juice",
+      "mode": "generated",
+      "original": "assets/menu/originals/rainbow-juice.png",
+      "web": [
+        "assets/menu/rainbow-juice-320.webp",
+        "assets/menu/rainbow-juice-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Rainbow Juice. Ingredients: Pineapple, apple, mango, spinach, ginger. Appearance and minimal ingredient props: golden green juice; mango cubes and a small spinach leaf. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid, Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete cup centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One cup only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-54b31196-3927-446c-89bc-1b09209c0fc7.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Watermelon Refresher",
+      "slug": "watermelon-refresher",
+      "mode": "generated",
+      "original": "assets/menu/originals/watermelon-refresher.png",
+      "web": [
+        "assets/menu/watermelon-refresher-320.webp",
+        "assets/menu/watermelon-refresher-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Watermelon Refresher. Ingredients: Strawberry, pineapple, watermelon. Appearance and minimal ingredient props: fresh watermelon pink red juice; watermelon wedge and strawberry. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-eb3c2c80-3822-4755-9a14-b93af0c6667f.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Morning Energy Booster",
+      "slug": "morning-energy-booster",
+      "mode": "generated",
+      "original": "assets/menu/originals/morning-energy-booster.png",
+      "web": [
+        "assets/menu/morning-energy-booster-320.webp",
+        "assets/menu/morning-energy-booster-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Morning Energy Booster. Ingredients: Beets, apple, orange, ginger. Appearance and minimal ingredient props: deep reddish magenta juice; beet slice and orange wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-fc8078aa-4466-4cfa-bae5-822a31bb25e1.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Skin Shady Juice",
+      "slug": "skin-shady-juice",
+      "mode": "generated",
+      "original": "assets/menu/originals/skin-shady-juice.png",
+      "web": [
+        "assets/menu/skin-shady-juice-320.webp",
+        "assets/menu/skin-shady-juice-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Skin Shady Juice. Ingredients: Cucumber, green apple, pineapple, ginger. Appearance and minimal ingredient props: light yellow green juice; cucumber slices and pineapple chunk. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-5c2ffb0a-01ae-43e0-b495-5f0cc19e3aea.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Kidney Helper",
+      "slug": "kidney-helper",
+      "mode": "generated",
+      "original": "assets/menu/originals/kidney-helper.png",
+      "web": [
+        "assets/menu/kidney-helper-320.webp",
+        "assets/menu/kidney-helper-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Kidney Helper. Ingredients: Apple, beets, melon, ginger, lemon. Appearance and minimal ingredient props: ruby red juice; beet slice and melon wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-d00b8466-90f5-4a45-81dc-869fdca832ca.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Immune Boost",
+      "slug": "immune-boost",
+      "mode": "retained",
+      "original": "assets/menu/originals/immune-boost.png",
+      "web": [
+        "assets/menu/immune-boost-320.webp",
+        "assets/menu/immune-boost-640.webp"
+      ],
+      "retainedSource": "assets/immunity-boost.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Weight Loss",
+      "slug": "weight-loss",
+      "mode": "generated",
+      "original": "assets/menu/originals/weight-loss.png",
+      "web": [
+        "assets/menu/weight-loss-320.webp",
+        "assets/menu/weight-loss-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Weight Loss. Ingredients: Cucumber, green apple, flaxseed, kale. Appearance and minimal ingredient props: leafy green juice with fine seed flecks; cucumber slices and green apple wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-bd786abc-4a71-45a6-be0c-0694b733aa51.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Liver Cleanse",
+      "slug": "liver-cleanse",
+      "mode": "generated",
+      "original": "assets/menu/originals/liver-cleanse.png",
+      "web": [
+        "assets/menu/liver-cleanse-320.webp",
+        "assets/menu/liver-cleanse-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Liver Cleanse. Ingredients: Green apple, spirulina, dates, melon, ginger. Appearance and minimal ingredient props: deep dark green juice; green apple wedge and two dates. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-a92a090b-7e01-433e-82ac-1274650a25b9.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Headache Relief",
+      "slug": "headache-relief",
+      "mode": "generated",
+      "original": "assets/menu/originals/headache-relief.png",
+      "web": [
+        "assets/menu/headache-relief-320.webp",
+        "assets/menu/headache-relief-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Headache Relief. Ingredients: Orange, celery, ginger, cucumber. Appearance and minimal ingredient props: orange yellow juice with green undertone; orange wedge and celery. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-147494e0-a4ad-407d-a68e-151fe4f0d0c2.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "High Blood Pressure",
+      "slug": "high-blood-pressure",
+      "mode": "generated",
+      "original": "assets/menu/originals/high-blood-pressure.png",
+      "web": [
+        "assets/menu/high-blood-pressure-320.webp",
+        "assets/menu/high-blood-pressure-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: High Blood Pressure. Ingredients: Apple, garlic, melon, pear. Appearance and minimal ingredient props: pale yellow green juice; pear wedge and small garlic clove. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-79f4ddcf-d1cf-4067-bef3-7a469d37f7d6.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Gut Cleanse",
+      "slug": "gut-cleanse",
+      "mode": "generated",
+      "original": "assets/menu/originals/gut-cleanse.png",
+      "web": [
+        "assets/menu/gut-cleanse-320.webp",
+        "assets/menu/gut-cleanse-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Gut Cleanse. Ingredients: Cucumber, lemon, ginger, celery. Appearance and minimal ingredient props: fresh pale green juice; cucumber slices and lemon wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-84b47234-2438-4566-9500-a8b11b0c7fe8.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Cold Helper",
+      "slug": "cold-helper",
+      "mode": "generated",
+      "original": "assets/menu/originals/cold-helper.png",
+      "web": [
+        "assets/menu/cold-helper-320.webp",
+        "assets/menu/cold-helper-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Cold Helper. Ingredients: Apple, orange, spinach, lemon. Appearance and minimal ingredient props: golden green citrus juice; orange wedge and spinach leaves. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-cd17e271-5783-43b2-a575-8cb9acbe222f.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Lower Cholesterol",
+      "slug": "lower-cholesterol",
+      "mode": "generated",
+      "original": "assets/menu/originals/lower-cholesterol.png",
+      "web": [
+        "assets/menu/lower-cholesterol-320.webp",
+        "assets/menu/lower-cholesterol-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Lower Cholesterol. Ingredients: Kale, flaxseed, green apple, watermelon. Appearance and minimal ingredient props: muted reddish green juice with fine seed flecks; watermelon wedge and green apple slice. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-9ed5d7cf-7195-4812-b885-efa5357dd189.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Eye Health",
+      "slug": "eye-health",
+      "mode": "generated",
+      "original": "assets/menu/originals/eye-health.png",
+      "web": [
+        "assets/menu/eye-health-320.webp",
+        "assets/menu/eye-health-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Eye Health. Ingredients: Cucumber, carrot, parsley. Appearance and minimal ingredient props: fresh orange juice with subtle green undertone; carrot and cucumber slices. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-47ee1c03-51df-415a-8a58-7a23b97aba2e.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Mango Split",
+      "slug": "mango-split",
+      "mode": "generated",
+      "original": "assets/menu/originals/mango-split.png",
+      "web": [
+        "assets/menu/mango-split-320.webp",
+        "assets/menu/mango-split-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Mango Split. Ingredients: Mango, strawberry, banana, papaya, ginger, almond milk. Appearance and minimal ingredient props: creamy mango peach orange smoothie; mango cubes and strawberry. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-6d6392e2-2e90-44b1-9293-de3bee7e11b3.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Morning Magic",
+      "slug": "morning-magic",
+      "mode": "generated",
+      "original": "assets/menu/originals/morning-magic.png",
+      "web": [
+        "assets/menu/morning-magic-320.webp",
+        "assets/menu/morning-magic-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Morning Magic. Ingredients: Banana, pineapple, blueberry, pumpkin seed, almond milk. Appearance and minimal ingredient props: creamy lavender blueberry smoothie; blueberries and pumpkin seeds. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-9f3c17cd-575e-4af2-a083-581f0fbea3ec.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Pistachio Bliss",
+      "slug": "pistachio-bliss",
+      "mode": "generated",
+      "original": "assets/menu/originals/pistachio-bliss.png",
+      "web": [
+        "assets/menu/pistachio-bliss-320.webp",
+        "assets/menu/pistachio-bliss-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Pistachio Bliss. Ingredients: Banana, mango, pistachio, almond milk. Appearance and minimal ingredient props: creamy pale pistachio green smoothie; a few pistachios and mango cubes. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-bf44ceca-19ea-4124-b31c-83b3d6189d64.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Berry Berry",
+      "slug": "berry-berry",
+      "mode": "generated",
+      "original": "assets/menu/originals/berry-berry.png",
+      "web": [
+        "assets/menu/berry-berry-320.webp",
+        "assets/menu/berry-berry-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Berry Berry. Ingredients: Raspberry, strawberry, blueberry, blackberry, goji berry, banana, mango, coconut water. Appearance and minimal ingredient props: rich purple berry smoothie; blackberry and raspberries. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-01ded3a4-62db-4b9d-9d3e-395255e4d323.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Pina Colada",
+      "slug": "pina-colada",
+      "mode": "generated",
+      "original": "assets/menu/originals/pina-colada.png",
+      "web": [
+        "assets/menu/pina-colada-320.webp",
+        "assets/menu/pina-colada-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Pina Colada. Ingredients: Banana, coconut milk, pineapple. Appearance and minimal ingredient props: creamy ivory pale yellow smoothie; pineapple wedge and coconut piece. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-99d16653-bf15-4c9a-9368-9c3f94872201.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Green Day",
+      "slug": "green-day",
+      "mode": "retained",
+      "original": "assets/menu/originals/green-day.png",
+      "web": [
+        "assets/menu/green-day-320.webp",
+        "assets/menu/green-day-640.webp"
+      ],
+      "retainedSource": "assets/green-day-smoothie.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Sunshine Smoothie",
+      "slug": "sunshine-smoothie",
+      "mode": "generated",
+      "original": "assets/menu/originals/sunshine-smoothie.png",
+      "web": [
+        "assets/menu/sunshine-smoothie-320.webp",
+        "assets/menu/sunshine-smoothie-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Sunshine Smoothie. Ingredients: Pineapple, mango, peach, red apple, almond milk. Appearance and minimal ingredient props: creamy golden yellow smoothie; peach slice and mango cubes. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-580573f8-117f-426c-a56f-6b0b9442eb77.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Tropical Tango",
+      "slug": "tropical-tango",
+      "mode": "generated",
+      "original": "assets/menu/originals/tropical-tango.png",
+      "web": [
+        "assets/menu/tropical-tango-320.webp",
+        "assets/menu/tropical-tango-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Tropical Tango. Ingredients: Mango, pineapple, kiwi, apple, spinach, coconut milk. Appearance and minimal ingredient props: creamy golden green smoothie; kiwi slice and pineapple wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-42b63b53-0518-40f8-9f24-90dbcf3f6c73.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Royal Flush",
+      "slug": "royal-flush",
+      "mode": "generated",
+      "original": "assets/menu/originals/royal-flush.png",
+      "web": [
+        "assets/menu/royal-flush-320.webp",
+        "assets/menu/royal-flush-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Royal Flush. Ingredients: Banana, spinach, ginger, coconut water, kale, pineapple, moringa. Appearance and minimal ingredient props: deep green smoothie; small banana slices and spinach leaves. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-17b600f7-34bf-4536-8ed9-eaccc37fd735.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Banana Strawberry",
+      "slug": "banana-strawberry",
+      "mode": "retained",
+      "original": "assets/menu/originals/banana-strawberry.png",
+      "web": [
+        "assets/menu/banana-strawberry-320.webp",
+        "assets/menu/banana-strawberry-640.webp"
+      ],
+      "retainedSource": "assets/banana-strawberry-smoothie.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Summer Mode",
+      "slug": "summer-mode",
+      "mode": "generated",
+      "original": "assets/menu/originals/summer-mode.png",
+      "web": [
+        "assets/menu/summer-mode-320.webp",
+        "assets/menu/summer-mode-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Summer Mode. Ingredients: Peach, red apple, mango, banana, almond milk. Appearance and minimal ingredient props: creamy peach orange smoothie; peach wedge and red apple slice. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-b1fa9176-3a0b-4d6e-8e0b-26b048d6fd48.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "One Love",
+      "slug": "one-love",
+      "mode": "generated",
+      "original": "assets/menu/originals/one-love.png",
+      "web": [
+        "assets/menu/one-love-320.webp",
+        "assets/menu/one-love-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: One Love. Ingredients: Coconut water, mango, orange, ginger, pineapple. Appearance and minimal ingredient props: bright golden orange fruit smoothie; mango cubes and orange wedge. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-9ea2207e-cf7a-4850-8136-df2eeb55ee5d.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Peanut Punch",
+      "slug": "peanut-punch",
+      "mode": "retained",
+      "original": "assets/menu/originals/peanut-punch.png",
+      "web": [
+        "assets/menu/peanut-punch-320.webp",
+        "assets/menu/peanut-punch-640.webp"
+      ],
+      "retainedSource": "assets/peanut-punch.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Maca Madness Shake",
+      "slug": "maca-madness-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/maca-madness-shake.png",
+      "web": [
+        "assets/menu/maca-madness-shake-320.webp",
+        "assets/menu/maca-madness-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Maca Madness Shake. Ingredients: Banana, almond, peanut, maca powder, oats, almond milk. Appearance and minimal ingredient props: creamy warm beige nut shake; almonds and shelled peanuts. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-3be850e6-57ed-4e62-8422-62089f02ba45.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Super Duper Shake",
+      "slug": "super-duper-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/super-duper-shake.png",
+      "web": [
+        "assets/menu/super-duper-shake-320.webp",
+        "assets/menu/super-duper-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Super Duper Shake. Ingredients: Strawberry, peanut, banana, cashew, oats, flaxseed, sea moss, almond milk. Appearance and minimal ingredient props: creamy strawberry pink nut shake; strawberry and cashews. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-f6161420-c3c3-4db8-8833-8d776485597e.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Hard Rock Shake",
+      "slug": "hard-rock-shake",
+      "mode": "retained",
+      "original": "assets/menu/originals/hard-rock-shake.png",
+      "web": [
+        "assets/menu/hard-rock-shake-320.webp",
+        "assets/menu/hard-rock-shake-640.webp"
+      ],
+      "retainedSource": "assets/hard-rake-shake.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Mac Me Nut Shake",
+      "slug": "mac-me-nut-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/mac-me-nut-shake.png",
+      "web": [
+        "assets/menu/mac-me-nut-shake-320.webp",
+        "assets/menu/mac-me-nut-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Mac Me Nut Shake. Ingredients: Granola, sea moss, spirulina, maca powder, cashew, almond, almond milk. Appearance and minimal ingredient props: creamy muted green nut shake; cashews and almonds. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-4c11076c-d857-4521-af9c-e56219c664d1.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Bananarama Shake",
+      "slug": "bananarama-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/bananarama-shake.png",
+      "web": [
+        "assets/menu/bananarama-shake-320.webp",
+        "assets/menu/bananarama-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Bananarama Shake. Ingredients: Protein powder, banana, strawberry, cashew, oats, almond milk. Appearance and minimal ingredient props: creamy pale strawberry pink shake; banana slices and strawberry. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-3fbc8d66-8059-4d37-b500-9bc622584769.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Fusion Super Shake",
+      "slug": "fusion-super-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/fusion-super-shake.png",
+      "web": [
+        "assets/menu/fusion-super-shake-320.webp",
+        "assets/menu/fusion-super-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Fusion Super Shake. Ingredients: Banana, ashwagandha, ginseng, oats, sea moss, pumpkin seed, peanut, oat milk. Appearance and minimal ingredient props: creamy golden beige shake; pumpkin seeds and shelled peanuts. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-355090eb-e3ed-41f7-986e-9d46d465ef9d.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Power Up Shake",
+      "slug": "power-up-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/power-up-shake.png",
+      "web": [
+        "assets/menu/power-up-shake-320.webp",
+        "assets/menu/power-up-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Power Up Shake. Ingredients: Molasses, ginseng, sea moss, oats, almond, dandelion, oat milk. Appearance and minimal ingredient props: creamy caramel brown shake; almonds and a few rolled oats. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-5be35068-3697-445b-87a3-78afd38b79a4.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Muscle Med Protein Shake",
+      "slug": "muscle-med-protein-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/muscle-med-protein-shake.png",
+      "web": [
+        "assets/menu/muscle-med-protein-shake-320.webp",
+        "assets/menu/muscle-med-protein-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Muscle Med Protein Shake. Ingredients: Peanut butter, banana, oats, cashew, cinnamon, vanilla, almond milk. Appearance and minimal ingredient props: creamy tan peanut butter shake; banana slices and cinnamon stick. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-519b3c78-4771-4214-80ff-35737d476fe9.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Pumpkin Seed Shake",
+      "slug": "pumpkin-seed-shake",
+      "mode": "generated",
+      "original": "assets/menu/originals/pumpkin-seed-shake.png",
+      "web": [
+        "assets/menu/pumpkin-seed-shake-320.webp",
+        "assets/menu/pumpkin-seed-shake-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Pumpkin Seed Shake. Ingredients: Banana, granola, pumpkin seed, almond, spirulina, almond milk, spinach. Appearance and minimal ingredient props: creamy green shake with subtle seed flecks; pumpkin seeds and almonds. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-0ef3d34e-0fd1-4a20-86af-d653bc3beaf4.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Plantain Power",
+      "slug": "plantain-power",
+      "mode": "generated",
+      "original": "assets/menu/originals/plantain-power.png",
+      "web": [
+        "assets/menu/plantain-power-320.webp",
+        "assets/menu/plantain-power-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Plantain Power. Ingredients: Ashwagandha, banana, walnut, pumpkin seed, bee pollen, ginseng, granola, almond milk. Appearance and minimal ingredient props: creamy golden beige shake; walnuts and banana slices; no plantain prop because plantain is not listed in this recipe. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-a25e8df0-68b1-4491-bc17-96f5aa26328e.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Immune Shots",
+      "slug": "immune-shots",
+      "mode": "generated",
+      "original": "assets/menu/originals/immune-shots.png",
+      "web": [
+        "assets/menu/immune-shots-320.webp",
+        "assets/menu/immune-shots-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Immune Shots. Ingredients: Turmeric, lemon, ginger, cayenne pepper, honey, cucumber, apple, beets, carrot. Appearance and minimal ingredient props: small clear wellness shot bottle with black cap and Fusion Health logo; vivid orange liquid; tiny ginger root and lemon wedge; match reference backdrop but use small shot bottle instead of cup. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-779d6f3a-4c76-49a0-81ea-7974d27bbcfd.png",
+      "visualReview": "passed"
+    },
+    {
+      "name": "Kid’s Menu",
+      "slug": "kids-menu",
+      "mode": "generated",
+      "original": "assets/menu/originals/kids-menu.png",
+      "web": [
+        "assets/menu/kids-menu-320.webp",
+        "assets/menu/kids-menu-640.webp"
+      ],
+      "prompt": "Use case: product-mockup. Create one NEW portrait 2:3 product photo for Fusion Health Juice Bar: Kid’s Menu. Ingredients: Strawberry banana, mango banana, mango banana strawberry, pineapple strawberry, banana strawberry, blueberry. Appearance and minimal ingredient props: small child-size clear flat-lidded branded cup of strawberry banana smoothie; soft pink; strawberry and banana slices; representative kids drink. Match the provided website image as a style, cup, logo and composition reference: realistic clear plastic cup with flat clear lid (unless the subject specifies a shot bottle or kids cup), Fusion Health Juice Bar logo sticker accurately reproduced, warm cream background, soft studio lighting, flowing orange/red/blue/green painted swirls on tabletop. Complete container centered, same scale and camera angle as reference, generous margins. Ingredients affect drink appearance; no extra ingredients. One container only. No title, prices, menu text or watermark. Generate a distinct photograph, not a collage or extraction.",
+      "generatedSource": "/Users/stephenbauer/.codex/generated_images/01a10ef8-a3e9-78d0-ad51-310d29ea4b56/exec-09533593-5131-498d-a4ba-7ffc79c5b66c.png",
+      "visualReview": "passed"
+    }
+  ]
+}

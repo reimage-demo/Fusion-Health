@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://fusionhealthjuices.com/</loc>
+    <loc>https://fusionhealthjuicebar.com/</loc>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/peanut-punch.png</image:loc><image:title>Peanut Punch</image:title><image:caption>Protein powder, peanut, oats, banana, sea moss, bee pollen, nutmeg, vanilla, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/green-goodness-640.webp</image:loc><image:title>Green Goodness</image:title><image:caption>Green apple, cucumber, celery, spinach, kale, parsley, lemon, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/green-day-smoothie.png</image:loc><image:title>Green Day</image:title><image:caption>Banana, spinach, green apple, avocado, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/banana-strawberry-smoothie.png</image:loc><image:title>Banana Strawberry</image:title><image:caption>Banana, apple, strawberry, peach, protein powder, coconut water.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/immunity-boost.png</image:loc><image:title>Immune Boost</image:title><image:caption>Lemon, ginger, turmeric, green apple, orange.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/hard-rake-shake.png</image:loc><image:title>Hard Rock Shake</image:title><image:caption>Granola, ripe plantain, sea moss, ginseng, cashew, blueberry, coconut milk.</image:caption></image:image>
     <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/peanut-punch.png</image:loc>
-      <image:title>Peanut Punch healthy shake in Hartford CT</image:title>
-      <image:caption>Peanut Punch with peanut, banana, nutmeg, vanilla, sea moss, oats, protein powder, almond milk, and honey at Fusion Health Juice Bar in Hartford, CT.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/greenobrett.png</image:loc>
-      <image:title>Greenobrett green juice in Hartford CT</image:title>
-      <image:caption>Greenobrett healthy green juice with cucumber, celery, pineapple, spinach, apple, kale, and ginger in Hartford, CT.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/green-day-smoothie.png</image:loc>
-      <image:title>Green Day smoothie in Hartford CT</image:title>
-      <image:caption>Green Day healthy smoothie with banana, green apple, spinach, avocado, honey, and almond milk in Hartford, CT.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/banana-strawberry-smoothie.png</image:loc>
-      <image:title>Banana Strawberry smoothie in Hartford CT</image:title>
-      <image:caption>Banana Strawberry healthy smoothie with banana, strawberry, protein powder, peach, red apple, coconut water, and honey.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/immunity-boost.png</image:loc>
-      <image:title>Immune Boost juice in Hartford CT</image:title>
-      <image:caption>Immune Boost healthy juice with lemon, ginger, turmeric, green apple, and orange at Fusion Health Juice Bar.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/hard-rake-shake.png</image:loc>
-      <image:title>Hard Rak sea moss shake in Hartford CT</image:title>
-      <image:caption>Hard Rak healthy sea moss shake with plantain, granola, cashew, blueberry, ginseng, coconut milk, and honey.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/logo.png</image:loc>
+      <image:loc>https://fusionhealthjuicebar.com/logo.png</image:loc>
       <image:title>Fusion Health Juice Bar Hartford CT logo</image:title>
       <image:caption>Fusion Health Juice Bar serves fresh juices, smoothies, healthy shakes, sea moss drinks, and Peanut Punch in Hartford, CT.</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://fusionhealthjuices.com/menu.html</loc>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/peanut-punch.png</image:loc>
-      <image:title>Peanut Punch healthy shake on the Fusion Health menu</image:title>
-      <image:caption>Signature Jamaican-inspired Peanut Punch at Fusion Health Juice Bar in Hartford, CT.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/greenobrett.png</image:loc>
-      <image:title>Greenobrett healthy green juice on the Fusion Health menu</image:title>
-      <image:caption>Fresh green juice with cucumber, celery, pineapple, spinach, apple, kale, and ginger.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/green-day-smoothie.png</image:loc>
-      <image:title>Green Day healthy smoothie on the Fusion Health menu</image:title>
-      <image:caption>Green Day smoothie with banana, green apple, spinach, avocado, honey, and almond milk.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/banana-strawberry-smoothie.png</image:loc>
-      <image:title>Banana Strawberry healthy smoothie on the Fusion Health menu</image:title>
-      <image:caption>Banana Strawberry smoothie with fruit, protein, coconut water, and honey.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/immunity-boost.png</image:loc>
-      <image:title>Immune Boost healthy juice on the Fusion Health menu</image:title>
-      <image:caption>Immune Boost juice with lemon, ginger, turmeric, green apple, and orange.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/hard-rake-shake.png</image:loc>
-      <image:title>Hard Rak healthy sea moss shake on the Fusion Health menu</image:title>
-      <image:caption>Hard Rak Shake with plantain, granola, cashew, blueberry, sea moss, ginseng, coconut milk, and honey.</image:caption>
-    </image:image>
+    <loc>https://fusionhealthjuicebar.com/menu.html</loc>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/green-goodness-640.webp</image:loc><image:title>Green Goodness</image:title><image:caption>Green apple, cucumber, celery, spinach, kale, parsley, lemon, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/passion-juice-640.webp</image:loc><image:title>Passion Juice</image:title><image:caption>Ginger, passion fruit, carrot, mango, orange.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/orange-delight-640.webp</image:loc><image:title>Orange Delight</image:title><image:caption>Carrot, orange, mango, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/abc-juice-640.webp</image:loc><image:title>ABC Juice</image:title><image:caption>Beets, apple, carrot, lemon, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/tropical-delight-640.webp</image:loc><image:title>Tropical Delight</image:title><image:caption>Carrot, pineapple, orange, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/rainbow-juice-640.webp</image:loc><image:title>Rainbow Juice</image:title><image:caption>Pineapple, apple, mango, spinach, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/watermelon-refresher-640.webp</image:loc><image:title>Watermelon Refresher</image:title><image:caption>Strawberry, pineapple, watermelon.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/morning-energy-booster-640.webp</image:loc><image:title>Morning Energy Booster</image:title><image:caption>Beets, apple, orange, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/skin-shady-juice-640.webp</image:loc><image:title>Skin Shady Juice</image:title><image:caption>Cucumber, green apple, pineapple, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/kidney-helper-640.webp</image:loc><image:title>Kidney Helper</image:title><image:caption>Apple, beets, melon, ginger, lemon.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/immune-boost-640.webp</image:loc><image:title>Immune Boost</image:title><image:caption>Lemon, ginger, turmeric, green apple, orange.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/weight-loss-640.webp</image:loc><image:title>Weight Loss</image:title><image:caption>Cucumber, green apple, flaxseed, kale.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/liver-cleanse-640.webp</image:loc><image:title>Liver Cleanse</image:title><image:caption>Green apple, spirulina, dates, melon, ginger.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/headache-relief-640.webp</image:loc><image:title>Headache Relief</image:title><image:caption>Orange, celery, ginger, cucumber.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/high-blood-pressure-640.webp</image:loc><image:title>High Blood Pressure</image:title><image:caption>Apple, garlic, melon, pear.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/gut-cleanse-640.webp</image:loc><image:title>Gut Cleanse</image:title><image:caption>Cucumber, lemon, ginger, celery.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/cold-helper-640.webp</image:loc><image:title>Cold Helper</image:title><image:caption>Apple, orange, spinach, lemon.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/lower-cholesterol-640.webp</image:loc><image:title>Lower Cholesterol</image:title><image:caption>Kale, flaxseed, green apple, watermelon.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/eye-health-640.webp</image:loc><image:title>Eye Health</image:title><image:caption>Cucumber, carrot, parsley.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/mango-split-640.webp</image:loc><image:title>Mango Split</image:title><image:caption>Mango, strawberry, banana, papaya, ginger, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/morning-magic-640.webp</image:loc><image:title>Morning Magic</image:title><image:caption>Banana, pineapple, blueberry, pumpkin seed, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/pistachio-bliss-640.webp</image:loc><image:title>Pistachio Bliss</image:title><image:caption>Banana, mango, pistachio, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/berry-berry-640.webp</image:loc><image:title>Berry Berry</image:title><image:caption>Raspberry, strawberry, blueberry, blackberry, goji berry, banana, mango, coconut water.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/pina-colada-640.webp</image:loc><image:title>Pina Colada</image:title><image:caption>Banana, coconut milk, pineapple.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/green-day-640.webp</image:loc><image:title>Green Day</image:title><image:caption>Banana, spinach, green apple, avocado, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/sunshine-smoothie-640.webp</image:loc><image:title>Sunshine Smoothie</image:title><image:caption>Pineapple, mango, peach, red apple, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/tropical-tango-640.webp</image:loc><image:title>Tropical Tango</image:title><image:caption>Mango, pineapple, kiwi, apple, spinach, coconut milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/royal-flush-640.webp</image:loc><image:title>Royal Flush</image:title><image:caption>Banana, spinach, ginger, coconut water, kale, pineapple, moringa.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/banana-strawberry-640.webp</image:loc><image:title>Banana Strawberry</image:title><image:caption>Banana, apple, strawberry, peach, protein powder, coconut water.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/summer-mode-640.webp</image:loc><image:title>Summer Mode</image:title><image:caption>Peach, red apple, mango, banana, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/one-love-640.webp</image:loc><image:title>One Love</image:title><image:caption>Coconut water, mango, orange, ginger, pineapple.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/peanut-punch-640.webp</image:loc><image:title>Peanut Punch</image:title><image:caption>Protein powder, peanut, oats, banana, sea moss, bee pollen, nutmeg, vanilla, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/maca-madness-shake-640.webp</image:loc><image:title>Maca Madness Shake</image:title><image:caption>Banana, almond, peanut, maca powder, oats, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/super-duper-shake-640.webp</image:loc><image:title>Super Duper Shake</image:title><image:caption>Strawberry, peanut, banana, cashew, oats, flaxseed, sea moss, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/hard-rock-shake-640.webp</image:loc><image:title>Hard Rock Shake</image:title><image:caption>Granola, ripe plantain, sea moss, ginseng, cashew, blueberry, coconut milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/mac-me-nut-shake-640.webp</image:loc><image:title>Mac Me Nut Shake</image:title><image:caption>Granola, sea moss, spirulina, maca powder, cashew, almond, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/bananarama-shake-640.webp</image:loc><image:title>Bananarama Shake</image:title><image:caption>Protein powder, banana, strawberry, cashew, oats, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/fusion-super-shake-640.webp</image:loc><image:title>Fusion Super Shake</image:title><image:caption>Banana, ashwagandha, ginseng, oats, sea moss, pumpkin seed, peanut, oat milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/power-up-shake-640.webp</image:loc><image:title>Power Up Shake</image:title><image:caption>Molasses, ginseng, sea moss, oats, almond, dandelion, oat milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/muscle-med-protein-shake-640.webp</image:loc><image:title>Muscle Med Protein Shake</image:title><image:caption>Peanut butter, banana, oats, cashew, cinnamon, vanilla, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/pumpkin-seed-shake-640.webp</image:loc><image:title>Pumpkin Seed Shake</image:title><image:caption>Banana, granola, pumpkin seed, almond, spirulina, almond milk, spinach.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/plantain-power-640.webp</image:loc><image:title>Plantain Power</image:title><image:caption>Ashwagandha, banana, walnut, pumpkin seed, bee pollen, ginseng, granola, almond milk.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/immune-shots-640.webp</image:loc><image:title>Immune Shots</image:title><image:caption>Turmeric, lemon, ginger, cayenne pepper, honey, cucumber, apple, beets, carrot.</image:caption></image:image>
+    <image:image><image:loc>https://fusionhealthjuicebar.com/assets/menu/kids-menu-640.webp</image:loc><image:title>Kid’s Menu</image:title><image:caption>Strawberry banana, mango banana, mango banana strawberry, pineapple strawberry, banana strawberry, blueberry.</image:caption></image:image>
   </url>
   <url>
-    <loc>https://fusionhealthjuices.com/about.html</loc>
+    <loc>https://fusionhealthjuicebar.com/about.html</loc>
     <image:image>
-      <image:loc>https://fusionhealthjuices.com/assets/peanut-punch.png</image:loc>
-      <image:title>Fusion Health Peanut Punch in Hartford CT</image:title>
-      <image:caption>Peanut Punch is a signature healthy shake at Fusion Health Juice Bar in Hartford, CT.</image:caption>
+      <image:loc>https://fusionhealthjuicebar.com/assets/storefront.png</image:loc>
+      <image:title>Fusion Health Juice Bar storefront in Hartford CT</image:title>
+      <image:caption>Storefront of Fusion Health Juice Bar at 879 New Britain Avenue in Hartford, CT.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://fusionhealthjuices.com/logo.png</image:loc>
+      <image:loc>https://fusionhealthjuicebar.com/assets/food-prep.png</image:loc>
+      <image:title>Fresh fruit prep for Hartford juices and smoothies</image:title>
+      <image:caption>Fresh fruit prep for healthy juices, smoothies, wellness drinks, and bowls at Fusion Health Juice Bar in Hartford, CT.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://fusionhealthjuicebar.com/assets/family.png</image:loc>
+      <image:title>Fusion Health Juice Bar family and community in Hartford CT</image:title>
+      <image:caption>Fusion Health Juice Bar family and community moment in Hartford, CT.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://fusionhealthjuicebar.com/logo.png</image:loc>
       <image:title>Fusion Health Juice Bar logo in Hartford CT</image:title>
       <image:caption>Fusion Health Juice Bar is home of healthy juices, smoothies, shakes, and Peanut Punch in Hartford, CT.</image:caption>
     </image:image>

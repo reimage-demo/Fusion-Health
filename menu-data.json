@@ -1,0 +1,427 @@
+{
+  "source": "Owner-supplied menu boards, October 2026",
+  "juicePrices": [
+    [
+      "XS",
+      7.25
+    ],
+    [
+      "Small",
+      8.25
+    ],
+    [
+      "Medium",
+      10.25
+    ],
+    [
+      "Large",
+      12.25
+    ]
+  ],
+  "shakePrices": [
+    [
+      "Medium",
+      11
+    ],
+    [
+      "Large",
+      12.5
+    ],
+    [
+      "Extra-large",
+      14.5
+    ]
+  ],
+  "sections": [
+    {
+      "id": "juices",
+      "name": "Fusion Juices",
+      "pricing": "juice",
+      "items": [
+        {
+          "name": "Green Goodness",
+          "ingredients": "Green apple, cucumber, celery, spinach, kale, parsley, lemon, ginger.",
+          "favorite": true,
+          "look": "fresh deep leafy green juice; green apple and lemon wedge"
+        },
+        {
+          "name": "Passion Juice",
+          "ingredients": "Ginger, passion fruit, carrot, mango, orange.",
+          "favorite": true,
+          "look": "vivid golden orange juice; halved passion fruit and mango cubes"
+        },
+        {
+          "name": "Orange Delight",
+          "ingredients": "Carrot, orange, mango, ginger.",
+          "look": "bright orange juice; orange wedge and small carrot"
+        },
+        {
+          "name": "ABC Juice",
+          "ingredients": "Beets, apple, carrot, lemon, ginger.",
+          "look": "deep ruby beet juice; beet slice and apple wedge"
+        },
+        {
+          "name": "Tropical Delight",
+          "ingredients": "Carrot, pineapple, orange, ginger.",
+          "look": "sunny orange gold juice; pineapple wedge and orange slice"
+        },
+        {
+          "name": "Rainbow Juice",
+          "ingredients": "Pineapple, apple, mango, spinach, ginger.",
+          "look": "golden green juice; mango cubes and a small spinach leaf"
+        },
+        {
+          "name": "Watermelon Refresher",
+          "ingredients": "Strawberry, pineapple, watermelon.",
+          "look": "fresh watermelon pink red juice; watermelon wedge and strawberry"
+        },
+        {
+          "name": "Morning Energy Booster",
+          "ingredients": "Beets, apple, orange, ginger.",
+          "look": "deep reddish magenta juice; beet slice and orange wedge"
+        },
+        {
+          "name": "Skin Shady Juice",
+          "ingredients": "Cucumber, green apple, pineapple, ginger.",
+          "look": "light yellow green juice; cucumber slices and pineapple chunk"
+        }
+      ]
+    },
+    {
+      "id": "wellness",
+      "name": "Fusion Health",
+      "pricing": "juice",
+      "items": [
+        {
+          "name": "Kidney Helper",
+          "ingredients": "Apple, beets, melon, ginger, lemon.",
+          "favorite": true,
+          "look": "ruby red juice; beet slice and melon wedge"
+        },
+        {
+          "name": "Immune Boost",
+          "ingredients": "Lemon, ginger, turmeric, green apple, orange.",
+          "favorite": true,
+          "existing": "assets/immunity-boost.png"
+        },
+        {
+          "name": "Weight Loss",
+          "ingredients": "Cucumber, green apple, flaxseed, kale.",
+          "look": "leafy green juice with fine seed flecks; cucumber slices and green apple wedge"
+        },
+        {
+          "name": "Liver Cleanse",
+          "ingredients": "Green apple, spirulina, dates, melon, ginger.",
+          "look": "deep dark green juice; green apple wedge and two dates"
+        },
+        {
+          "name": "Headache Relief",
+          "ingredients": "Orange, celery, ginger, cucumber.",
+          "look": "orange yellow juice with green undertone; orange wedge and celery"
+        },
+        {
+          "name": "High Blood Pressure",
+          "ingredients": "Apple, garlic, melon, pear.",
+          "look": "pale yellow green juice; pear wedge and small garlic clove"
+        },
+        {
+          "name": "Gut Cleanse",
+          "ingredients": "Cucumber, lemon, ginger, celery.",
+          "look": "fresh pale green juice; cucumber slices and lemon wedge"
+        },
+        {
+          "name": "Cold Helper",
+          "ingredients": "Apple, orange, spinach, lemon.",
+          "look": "golden green citrus juice; orange wedge and spinach leaves"
+        },
+        {
+          "name": "Lower Cholesterol",
+          "ingredients": "Kale, flaxseed, green apple, watermelon.",
+          "look": "muted reddish green juice with fine seed flecks; watermelon wedge and green apple slice"
+        },
+        {
+          "name": "Eye Health",
+          "ingredients": "Cucumber, carrot, parsley.",
+          "look": "fresh orange juice with subtle green undertone; carrot and cucumber slices"
+        }
+      ]
+    },
+    {
+      "id": "smoothies",
+      "name": "Fusion Smoothies",
+      "pricing": "juice",
+      "items": [
+        {
+          "name": "Mango Split",
+          "ingredients": "Mango, strawberry, banana, papaya, ginger, almond milk.",
+          "favorite": true,
+          "look": "creamy mango peach orange smoothie; mango cubes and strawberry"
+        },
+        {
+          "name": "Morning Magic",
+          "ingredients": "Banana, pineapple, blueberry, pumpkin seed, almond milk.",
+          "favorite": true,
+          "look": "creamy lavender blueberry smoothie; blueberries and pumpkin seeds"
+        },
+        {
+          "name": "Pistachio Bliss",
+          "ingredients": "Banana, mango, pistachio, almond milk.",
+          "favorite": true,
+          "look": "creamy pale pistachio green smoothie; a few pistachios and mango cubes"
+        },
+        {
+          "name": "Berry Berry",
+          "ingredients": "Raspberry, strawberry, blueberry, blackberry, goji berry, banana, mango, coconut water.",
+          "look": "rich purple berry smoothie; blackberry and raspberries"
+        },
+        {
+          "name": "Pina Colada",
+          "ingredients": "Banana, coconut milk, pineapple.",
+          "look": "creamy ivory pale yellow smoothie; pineapple wedge and coconut piece"
+        },
+        {
+          "name": "Green Day",
+          "ingredients": "Banana, spinach, green apple, avocado, almond milk.",
+          "existing": "assets/green-day-smoothie.png"
+        },
+        {
+          "name": "Sunshine Smoothie",
+          "ingredients": "Pineapple, mango, peach, red apple, almond milk.",
+          "look": "creamy golden yellow smoothie; peach slice and mango cubes"
+        },
+        {
+          "name": "Tropical Tango",
+          "ingredients": "Mango, pineapple, kiwi, apple, spinach, coconut milk.",
+          "look": "creamy golden green smoothie; kiwi slice and pineapple wedge"
+        },
+        {
+          "name": "Royal Flush",
+          "ingredients": "Banana, spinach, ginger, coconut water, kale, pineapple, moringa.",
+          "look": "deep green smoothie; small banana slices and spinach leaves"
+        },
+        {
+          "name": "Banana Strawberry",
+          "ingredients": "Banana, apple, strawberry, peach, protein powder, coconut water.",
+          "existing": "assets/banana-strawberry-smoothie.png"
+        },
+        {
+          "name": "Summer Mode",
+          "ingredients": "Peach, red apple, mango, banana, almond milk.",
+          "look": "creamy peach orange smoothie; peach wedge and red apple slice"
+        },
+        {
+          "name": "One Love",
+          "ingredients": "Coconut water, mango, orange, ginger, pineapple.",
+          "look": "bright golden orange fruit smoothie; mango cubes and orange wedge"
+        }
+      ]
+    },
+    {
+      "id": "energy-shakes",
+      "name": "Fusion Shakes",
+      "pricing": "shake",
+      "items": [
+        {
+          "name": "Peanut Punch",
+          "ingredients": "Protein powder, peanut, oats, banana, sea moss, bee pollen, nutmeg, vanilla, almond milk.",
+          "favorite": true,
+          "signature": true,
+          "existing": "assets/peanut-punch.png"
+        },
+        {
+          "name": "Maca Madness Shake",
+          "ingredients": "Banana, almond, peanut, maca powder, oats, almond milk.",
+          "favorite": true,
+          "look": "creamy warm beige nut shake; almonds and shelled peanuts"
+        },
+        {
+          "name": "Super Duper Shake",
+          "ingredients": "Strawberry, peanut, banana, cashew, oats, flaxseed, sea moss, almond milk.",
+          "favorite": true,
+          "look": "creamy strawberry pink nut shake; strawberry and cashews",
+          "aliases": [
+            "item-super-duper"
+          ]
+        },
+        {
+          "name": "Hard Rock Shake",
+          "ingredients": "Granola, ripe plantain, sea moss, ginseng, cashew, blueberry, coconut milk.",
+          "existing": "assets/hard-rake-shake.png",
+          "aliases": [
+            "item-hard-rak"
+          ]
+        },
+        {
+          "name": "Mac Me Nut Shake",
+          "ingredients": "Granola, sea moss, spirulina, maca powder, cashew, almond, almond milk.",
+          "look": "creamy muted green nut shake; cashews and almonds"
+        },
+        {
+          "name": "Bananarama Shake",
+          "ingredients": "Protein powder, banana, strawberry, cashew, oats, almond milk.",
+          "look": "creamy pale strawberry pink shake; banana slices and strawberry"
+        },
+        {
+          "name": "Fusion Super Shake",
+          "ingredients": "Banana, ashwagandha, ginseng, oats, sea moss, pumpkin seed, peanut, oat milk.",
+          "look": "creamy golden beige shake; pumpkin seeds and shelled peanuts"
+        },
+        {
+          "name": "Power Up Shake",
+          "ingredients": "Molasses, ginseng, sea moss, oats, almond, dandelion, oat milk.",
+          "look": "creamy caramel brown shake; almonds and a few rolled oats"
+        },
+        {
+          "name": "Muscle Med Protein Shake",
+          "ingredients": "Peanut butter, banana, oats, cashew, cinnamon, vanilla, almond milk.",
+          "look": "creamy tan peanut butter shake; banana slices and cinnamon stick"
+        },
+        {
+          "name": "Pumpkin Seed Shake",
+          "ingredients": "Banana, granola, pumpkin seed, almond, spirulina, almond milk, spinach.",
+          "look": "creamy green shake with subtle seed flecks; pumpkin seeds and almonds"
+        },
+        {
+          "name": "Plantain Power",
+          "ingredients": "Ashwagandha, banana, walnut, pumpkin seed, bee pollen, ginseng, granola, almond milk.",
+          "look": "creamy golden beige shake; walnuts and banana slices; no plantain prop because plantain is not listed in this recipe"
+        }
+      ]
+    },
+    {
+      "id": "acai",
+      "name": "Acai Bowls",
+      "price": 16.5,
+      "items": [
+        {
+          "name": "Fruitopia",
+          "ingredients": "Mango, banana, strawberry, papaya, coconut water.",
+          "toppings": "Strawberry, pear, banana, blueberry, chia seed.",
+          "favorite": true
+        },
+        {
+          "name": "Ocean Bowl",
+          "ingredients": "Mango, pineapple, banana, coconut water.",
+          "toppings": "Kiwi, apple, banana, strawberry, flaxseed, bee pollen."
+        },
+        {
+          "name": "Cocoa Strawberry",
+          "ingredients": "Banana, cocoa, chocolate protein powder, strawberry, sunflower seed, coconut milk.",
+          "toppings": "Banana, strawberry, blueberry, coconut strips, chia seed."
+        },
+        {
+          "name": "Avocado Base",
+          "ingredients": "Banana, avocado, strawberry, honey.",
+          "toppings": "Granola, banana, strawberry, pumpkin seed."
+        },
+        {
+          "name": "Blueberry Fantasea",
+          "ingredients": "Banana, pineapple, mango.",
+          "toppings": "Granola, blueberry, banana, sunflower seed."
+        },
+        {
+          "name": "Berry Fresh",
+          "ingredients": "Blueberry, strawberry, raspberry, banana.",
+          "toppings": "Banana, kiwi, strawberry, granola, sunflower seed, coconut strips."
+        },
+        {
+          "name": "Peach Parlor",
+          "ingredients": "Peach, banana, pineapple, mango, ginger.",
+          "toppings": "Banana, red apple, granola, raisin."
+        },
+        {
+          "name": "Madly Delicious",
+          "ingredients": "Banana, strawberry, spinach, protein powder.",
+          "toppings": "Strawberry, banana, coconut strips, pumpkin seed, pineapple."
+        }
+      ]
+    },
+    {
+      "id": "sea-moss",
+      "name": "Sea Moss",
+      "price": 25,
+      "items": [
+        {
+          "name": "Sea Moss",
+          "ingredients": "Soursop, pineapple, mango, blueberry, elderberry, spirulina, peach, strawberry, raspberry.",
+          "label": "Flavors"
+        }
+      ]
+    },
+    {
+      "id": "extras",
+      "name": "Wellness Shots, Kids & Patties",
+      "items": [
+        {
+          "name": "Immune Shots",
+          "ingredients": "Turmeric, lemon, ginger, cayenne pepper, honey, cucumber, apple, beets, carrot.",
+          "favorite": true,
+          "look": "small clear wellness shot bottle with black cap and Fusion Health logo; vivid orange liquid; tiny ginger root and lemon wedge; match reference backdrop but use small shot bottle instead of cup"
+        },
+        {
+          "name": "Kid’s Menu",
+          "slug": "kids-menu",
+          "ingredients": "Strawberry banana, mango banana, mango banana strawberry, pineapple strawberry, banana strawberry, blueberry.",
+          "label": "Flavors",
+          "look": "small child-size clear flat-lidded branded cup of strawberry banana smoothie; soft pink; strawberry and banana slices; representative kids drink"
+        },
+        {
+          "name": "Baked Patties",
+          "ingredients": "Chicken hot or mild, spinach, vegetable, and cocoa bread.",
+          "favorite": true
+        },
+        {
+          "name": "Spinach Patty",
+          "ingredients": "Flaky pastry filled with seasoned spinach, baked to a golden brown.",
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "cold-beverages",
+      "name": "Cold Beverages",
+      "items": [
+        {
+          "name": "Coconut Water (Lrg)",
+          "price": 10
+        },
+        {
+          "name": "Coconut Water (Sml)",
+          "price": 2.5
+        },
+        {
+          "name": "Smart Water",
+          "price": 3
+        },
+        {
+          "name": "Fiji Water",
+          "price": 3
+        },
+        {
+          "name": "Poland Water",
+          "price": 2
+        },
+        {
+          "name": "Strawberry Calypso",
+          "price": 3
+        },
+        {
+          "name": "Lemonade Calypso",
+          "price": 3
+        },
+        {
+          "name": "Vitamin Water",
+          "price": 3
+        },
+        {
+          "name": "Soursop Juice",
+          "price": 10
+        },
+        {
+          "name": "Passion Juice",
+          "price": 10
+        }
+      ]
+    }
+  ]
+}
