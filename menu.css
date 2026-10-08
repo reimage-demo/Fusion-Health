@@ -12,47 +12,49 @@
 .menuPage .menuSizePrices{display:flex;flex-wrap:wrap;gap:12px 20px;margin:0;padding:0;list-style:none}
 .menuPage .menuSizePrices li{display:flex;flex-direction:column;gap:5px;font-size:14px;color:#6b604e}
 .menuPage .menuSizePrices strong{font-size:19px;color:#263c2c;font-variant-numeric:tabular-nums}
-.menuPage .menuGrid{grid-template-columns:repeat(3,minmax(0,1fr));gap:24px !important}
-.menuPage .menuCard{min-width:0;padding:0 !important;gap:0;overflow:hidden;border-radius:18px !important}
+.menuPage .menuGrid{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px !important}
+.menuPage .menuCard{min-width:0;padding:0 !important;gap:0;overflow:hidden;border-radius:14px !important}
 .menuPage .menuCard:after{display:none !important}
-.menuPage .menuCard h3{padding-right:0;font-size:27px;line-height:1.12}
+.menuPage .menuCard h3{padding-right:0;font-size:21px;line-height:1.12}
 .menuPage .menuDrinkImage{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center 56%;border-radius:0;background:#f8efe7}
-.menuPage .menuCardBody{display:flex;flex:1;flex-direction:column;gap:13px;padding:23px;min-width:0}
-.menuPage .menuCardBody p{margin:0 !important;font-size:16px;line-height:1.55;flex:none !important}
+.menuPage .menuCardBody{display:flex;flex:1;flex-direction:column;gap:10px;padding:17px;min-width:0}
+.menuPage .menuCardBody p{margin:0 !important;font-size:15px;line-height:1.45;flex:none !important}
 .menuPage .menuCardBody .btn{margin-top:auto !important;flex-shrink:0}
-.menuPage .menuCardBody .priceLine{font-size:23px;color:#31563c !important;font-weight:850}
+.menuPage .menuCardBody .priceLine{font-size:18px;color:#31563c !important;font-weight:850}
 .menuPage .menuLabels{display:flex;gap:7px;flex-wrap:wrap}
 .menuPage .menuLabel{display:inline-flex;align-items:center;background:#f2e5ba;color:#4d3d17;border-radius:50px;padding:5px 10px;font-size:11px;font-weight:850;letter-spacing:.07em;text-transform:uppercase}
 .menuPage .signatureLabel{background:#35553b;color:white}
 .menuPage .menuToppings strong{color:#31563c}
 .menuPage .menuAnchorAlias{position:absolute;top:0;scroll-margin-top:120px}
 .menuPage .menuCard[id]{scroll-margin-top:120px}
-.menuPage .coldBeverages .menuGrid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px !important}
-.menuPage .coldBeverages .menuCardBody{display:grid;grid-template-columns:1fr auto;align-items:center;padding:20px;gap:14px}
-.menuPage .coldBeverages h3{font-size:22px}
+.menuPage .coldBeverages .menuGrid{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px !important}
+.menuPage .coldBeverages .menuCardBody{display:grid;grid-template-columns:1fr auto;align-items:center;padding:15px;gap:10px}
+.menuPage .coldBeverages h3{font-size:18px}
 .menuPage .coldBeverages .btn{grid-column:1/-1}
-.menuPage #extras .menuGrid{grid-template-columns:repeat(2,minmax(0,1fr))}
-.menuPage #sea-moss .menuGrid{grid-template-columns:minmax(0,1fr)}
+.menuPage #extras .menuGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.menuPage #sea-moss .menuGrid{grid-template-columns:minmax(0,1fr);width:75%}
 .menuPage #sea-moss .menuCardBody{max-width:760px}
 .menuPage .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 .menuPage .featuredMenuRail:focus-within .featuredMenuTrack{animation-play-state:paused !important}
 .menuPage .featuredMenuRail:focus-visible{outline:2px solid #31563c;outline-offset:5px}
 .menuPage .featuredMenuCard img{object-position:center 56%}
 @media(max-width:980px){
-  .menuPage .menuGrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .menuPage .menuGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
   .menuPage .menuPricing{grid-template-columns:1fr 1fr}
   .menuPage .menuPricing>div:last-child{grid-column:1/-1;border-top:1px solid #dfdfcd;padding-top:18px}
+}
+@media(min-width:641px) and (max-width:760px){
+  .menuPage .menuGrid,.menuPage .coldBeverages .menuGrid,.menuPage #extras .menuGrid{grid-template-columns:repeat(2,minmax(0,1fr));width:75%;margin-inline:auto}
 }
 @media(max-width:640px){
   .menuPage .hero{padding-bottom:24px}
   .menuPage .category{margin-top:40px}
   .menuPage .categoryTitle{align-items:start;gap:18px}
-  .menuPage .menuGrid,.menuPage .coldBeverages .menuGrid,.menuPage #extras .menuGrid{grid-template-columns:minmax(0,1fr)}
+  .menuPage .menuGrid,.menuPage .coldBeverages .menuGrid,.menuPage #extras .menuGrid{grid-template-columns:minmax(0,1fr);width:75%;margin-inline:auto}
   .menuPage .menuPricing{grid-template-columns:1fr;padding:20px;gap:22px}
   .menuPage .menuPricing>div:last-child{grid-column:auto}
   .menuPage .menuSizePrices{gap:12px 22px}
-  .menuPage .menuCardBody{padding:21px}
-  .menuPage .menuCard h3{font-size:27px}
+  .menuPage .menuCardBody{padding:16px}
   .menuPage .categoryNav{gap:8px 18px}
   .menuPage .featuredMenuCard img{max-height:280px}
 }
