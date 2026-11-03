@@ -297,42 +297,50 @@
           "name": "Fruitopia",
           "ingredients": "Mango, banana, strawberry, papaya, coconut water.",
           "toppings": "Strawberry, pear, banana, blueberry, chia seed.",
-          "favorite": true
+          "favorite": true,
+          "imageSlug": "fruitopia"
         },
         {
           "name": "Ocean Bowl",
           "ingredients": "Mango, pineapple, banana, coconut water.",
-          "toppings": "Kiwi, apple, banana, strawberry, flaxseed, bee pollen."
+          "toppings": "Kiwi, apple, banana, strawberry, flaxseed, bee pollen.",
+          "imageSlug": "ocean-bowl"
         },
         {
           "name": "Cocoa Strawberry",
           "ingredients": "Banana, cocoa, chocolate protein powder, strawberry, sunflower seed, coconut milk.",
-          "toppings": "Banana, strawberry, blueberry, coconut strips, chia seed."
+          "toppings": "Banana, strawberry, blueberry, coconut strips, chia seed.",
+          "imageSlug": "cocoa-strawberry"
         },
         {
           "name": "Avocado Base",
           "ingredients": "Banana, avocado, strawberry, honey.",
-          "toppings": "Granola, banana, strawberry, pumpkin seed."
+          "toppings": "Granola, banana, strawberry, pumpkin seed.",
+          "imageSlug": "avocado-base"
         },
         {
           "name": "Blueberry Fantasea",
           "ingredients": "Banana, pineapple, mango.",
-          "toppings": "Granola, blueberry, banana, sunflower seed."
+          "toppings": "Granola, blueberry, banana, sunflower seed.",
+          "imageSlug": "blueberry-fantasea"
         },
         {
           "name": "Berry Fresh",
           "ingredients": "Blueberry, strawberry, raspberry, banana.",
-          "toppings": "Banana, kiwi, strawberry, granola, sunflower seed, coconut strips."
+          "toppings": "Banana, kiwi, strawberry, granola, sunflower seed, coconut strips.",
+          "imageSlug": "berry-fresh"
         },
         {
           "name": "Peach Parlor",
           "ingredients": "Peach, banana, pineapple, mango, ginger.",
-          "toppings": "Banana, red apple, granola, raisin."
+          "toppings": "Banana, red apple, granola, raisin.",
+          "imageSlug": "peach-parlor"
         },
         {
           "name": "Madly Delicious",
           "ingredients": "Banana, strawberry, spinach, protein powder.",
-          "toppings": "Strawberry, banana, coconut strips, pumpkin seed, pineapple."
+          "toppings": "Strawberry, banana, coconut strips, pumpkin seed, pineapple.",
+          "imageSlug": "madly-delicious"
         }
       ]
     },
@@ -368,12 +376,15 @@
         {
           "name": "Baked Patties",
           "ingredients": "Chicken hot or mild, spinach, vegetable, and cocoa bread.",
-          "favorite": true
+          "favorite": true,
+          "imageSlug": "chicken-patty",
+          "imageAlt": "Representative chicken patty from Fusion Health Juice Bar"
         },
         {
           "name": "Spinach Patty",
           "ingredients": "Flaky pastry filled with seasoned spinach, baked to a golden brown.",
-          "favorite": true
+          "favorite": true,
+          "imageSlug": "spinach-patty"
         }
       ]
     },
@@ -383,23 +394,28 @@
       "items": [
         {
           "name": "Coconut Water (Lrg)",
-          "price": 10
+          "price": 10,
+          "imageSlug": "real-coconut-water"
         },
         {
           "name": "Coconut Water (Sml)",
-          "price": 2.5
+          "price": 2.5,
+          "imageSlug": "vita-coco-coconut-water"
         },
         {
           "name": "Smart Water",
-          "price": 3
+          "price": 3,
+          "imageSlug": "smart-water"
         },
         {
           "name": "Fiji Water",
-          "price": 3
+          "price": 3,
+          "imageSlug": "fiji-water"
         },
         {
           "name": "Poland Water",
-          "price": 2
+          "price": 2,
+          "imageSlug": "poland-spring-water"
         },
         {
           "name": "Strawberry Calypso",
@@ -407,19 +423,23 @@
         },
         {
           "name": "Lemonade Calypso",
-          "price": 3
+          "price": 3,
+          "imageSlug": "calypso-lemonade-drink"
         },
         {
           "name": "Vitamin Water",
-          "price": 3
+          "price": 3,
+          "imageSlug": "vitamin-waters"
         },
         {
           "name": "Soursop Juice",
-          "price": 10
+          "price": 10,
+          "imageSlug": "natural-soursop-juices"
         },
         {
           "name": "Passion Juice",
-          "price": 10
+          "price": 10,
+          "imageSlug": "cold-passion-juice"
         }
       ]
     }

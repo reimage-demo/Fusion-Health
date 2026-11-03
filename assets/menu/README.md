@@ -1,9 +1,10 @@
 # Fusion menu imagery
 
-The October 2026 menu uses 44 distinct drink images: 39 newly generated photographs and five retained website images. Menu-board illustrations were not extracted or reused.
+The menu uses 63 distinct images: the original 44 drink photos plus 19 photos added in November 2026 from the delivery-menu image collection (eight acai bowls, nine cold beverages, and two patty entries). Menu-board illustrations were not extracted or reused.
 
 - `originals/`: full-resolution PNG masters, including copies of the five retained images.
 - `*-320.webp` and `*-640.webp`: responsive website images.
+- `imageSlug` in `menu-data.json` maps delivery-menu images to existing items without changing item names, prices, or anchor links. Full-resolution sources for the November additions are preserved in `output/menu-photos-2026-11-01/`.
 - `generation-prompts.json`: per-drink prompts, style reference, and source provenance.
 
 The built-in image generator was used for new images. Each prompt specifies the latest recipe, drink appearance, and sparse ingredient props, while matching the existing branded cup, cream backdrop, soft lighting, and painted swirls. The kids’ image represents the strawberry banana option.
