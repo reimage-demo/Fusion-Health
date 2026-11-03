@@ -33,6 +33,7 @@
 .menuPage .coldBeverages .btn{grid-column:1/-1}
 .menuPage #extras .menuGrid{grid-template-columns:repeat(3,minmax(0,1fr))}
 .menuPage #sea-moss .menuGrid{grid-template-columns:minmax(0,1fr);width:75%}
+.menuPage #sea-moss .drinkCard{display:grid !important;grid-template-columns:minmax(0,280px) minmax(0,1fr)}
 .menuPage #sea-moss .menuCardBody{max-width:760px}
 .menuPage .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 .menuPage .featuredMenuRail:focus-within .featuredMenuTrack{animation-play-state:paused !important}
@@ -47,6 +48,7 @@
   .menuPage .menuGrid,.menuPage .coldBeverages .menuGrid,.menuPage #extras .menuGrid{grid-template-columns:repeat(2,minmax(0,1fr));width:75%;margin-inline:auto}
 }
 @media(max-width:640px){
+  .menuPage #sea-moss .drinkCard{display:flex !important;flex-direction:column}
   .menuPage .hero{padding-bottom:24px}
   .menuPage .category{margin-top:40px}
   .menuPage .categoryTitle{align-items:start;gap:18px}

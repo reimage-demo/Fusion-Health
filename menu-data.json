@@ -352,7 +352,9 @@
         {
           "name": "Sea Moss",
           "ingredients": "Soursop, pineapple, mango, blueberry, elderberry, spirulina, peach, strawberry, raspberry.",
-          "label": "Flavors"
+          "label": "Flavors",
+          "imageSlug": "sea-moss",
+          "imageAlt": "Representative jar of Fusion Health sea moss gel"
         }
       ]
     },
