@@ -28,7 +28,7 @@ parser = MenuParser()
 parser.feed(html)
 assert len(parser.ids) == len(set(parser.ids)), 'Duplicate HTML IDs'
 assert len(parser.cards) == 65
-assert sum('drinkCard' in card['class'].split() for card in parser.cards) == 63
+assert sum('drinkCard' in card['class'].split() for card in parser.cards) == 64
 assert [len(section['items']) for section in data['sections']] == [9,10,12,11,8,1,4,10]
 assert sum(bool(item.get('favorite')) for section in data['sections'] for item in section['items']) == 14
 for link in parser.links:
@@ -43,7 +43,7 @@ for image in parser.images:
             assert (ROOT / candidate.strip().split()[0]).is_file()
 schema = [json.loads(text) for text in re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S)]
 assert len(schema[0]['hasMenuSection']) == 8
-assert len(schema[1]['associatedMedia']) == 63
+assert len(schema[1]['associatedMedia']) == 64
 assert schema[0]['hasMenuSection'][4]['hasMenuItem'][0]['offers']['price'] == '16.50'
 assert schema[0]['hasMenuSection'][5]['hasMenuItem'][0]['offers']['price'] == '25.00'
 assert data['juicePrices'] == [['XS',7.25],['Small',8.25],['Medium',10.25],['Large',12.25]]
@@ -60,7 +60,7 @@ assert 'Pistachio Bliss' in [item['name'] for item in data['sections'][2]['items
 assert 'Maca Madness Shake' in [item['name'] for item in data['sections'][3]['items']]
 assert not {'Greenobrett','Simple Beets','Spotless','Apple Power','Spring Juice','Strawberry Swing','Hot Beverages','Staple Snacks'} & items.keys()
 originals = list((ROOT / 'assets/menu/originals').glob('*.png'))
-assert len(originals) == 63, f'Expected 63 original images, found {len(originals)}'
-assert len({hashlib.sha256(p.read_bytes()).hexdigest() for p in originals}) == 63, 'Duplicated menu image'
-assert len(list((ROOT / 'assets/menu').glob('*.webp'))) == 126
-print('PASS: 65 entries, 63 unique menu images, 126 responsive assets, 14 favorites, prices, recipes, anchors, and structured data.')
+assert len(originals) == 64, f'Expected 64 original images, found {len(originals)}'
+assert len({hashlib.sha256(p.read_bytes()).hexdigest() for p in originals}) == 64, 'Duplicated menu image'
+assert len(list((ROOT / 'assets/menu').glob('*.webp'))) == 128
+print('PASS: 65 entries, 64 unique menu images, 128 responsive assets, 14 favorites, prices, recipes, anchors, and structured data.')

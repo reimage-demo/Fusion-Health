@@ -1,6 +1,6 @@
 # Fusion menu imagery
 
-The menu uses 63 distinct images: the original 44 drink photos plus 19 photos added in November 2026 from the delivery-menu image collection (eight acai bowls, nine cold beverages, and two patty entries). Menu-board illustrations were not extracted or reused.
+The menu uses 64 distinct images: the original 44 drink photos plus 20 photos added in November 2026 from the delivery-menu image collection (eight acai bowls, ten cold beverages, and two patty entries). Menu-board illustrations were not extracted or reused.
 
 - `originals/`: full-resolution PNG masters, including copies of the five retained images.
 - `*-320.webp` and `*-640.webp`: responsive website images.

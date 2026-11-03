@@ -419,7 +419,8 @@
         },
         {
           "name": "Strawberry Calypso",
-          "price": 3
+          "price": 3,
+          "imageSlug": "strawberry-calypso"
         },
         {
           "name": "Lemonade Calypso",
